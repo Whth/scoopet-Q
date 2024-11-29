@@ -1,0 +1,51 @@
+{
+    "version": "v146",
+    "description": "The automation tower defense RTS",
+    "homepage": "https://mindustrygame.github.io/",
+    "license": "GPL-3.0-only",  // 使用更精确的SPDX标识符
+    "architecture": {
+        "64bit": {
+            "url": "https://ghp.ci/https://github.com/Anuken/Mindustry/releases/download/v146/Mindustry.jar",
+            "hash": "3ab0e46c3cbdc863529ba05e804847ef00e3dbdb4567b5c27c5e6dce071b93f9"
+        },
+        "32bit": {
+            "url": "https://ghp.ci/https://github.com/Anuken/Mindustry/releases/download/v146/Mindustry.jar",
+            "hash": "3ab0e46c3cbdc863529ba05e804847ef00e3dbdb4567b5c27c5e6dce071b93f9"
+        }
+    },
+    "bin": [
+        [
+            "java.exe",
+            "mindustry",
+            "-jar",
+            "$dir\\Mindustry.jar"
+        ]
+    ],
+    "checkver": {
+        "github": "Anuken/Mindustry"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://ghp.ci/https://github.com/Anuken/Mindustry/releases/download/$version/Mindustry.jar"
+            },
+            "32bit": {
+                "url": "https://ghp.ci/https://github.com/Anuken/Mindustry/releases/download/$version/Mindustry.jar"
+            }
+        },
+        "hash": {
+            "url": "$url.sha256"
+        }
+    },
+    "persist": [
+        "maps",
+        "mods",
+        "previews",
+        "saves",
+        "schematics"
+    ],
+    "notes": [
+        "Please ensure you have Java installed to run Mindustry.",
+        "You can launch the game by running 'mindustry' in your command line."
+    ]
+}
