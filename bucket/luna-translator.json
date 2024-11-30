@@ -21,7 +21,7 @@
         "github": "HIllya51/LunaTranslator"
     },
     "autoupdate": {
-        "url": "https://ghp.ci/https://github.com/HIllya51/LunaTranslator/releases/download/$version/LunaTranslator-$version-bin.zip",
+        "url": "https://ghp.ci/https://github.com/HIllya51/LunaTranslator/releases/download/$version/LunaTranslator.zip",
         "hash": {
             "url": "$url.sha256"
         }
