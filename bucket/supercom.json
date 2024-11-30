@@ -1,0 +1,24 @@
+{
+    "version": "4.2",
+    "description": "SuperCom 是一款串口调试工具",
+    "homepage": "https://github.com/SuperStudio/SuperCom",
+    "license": "GPL-3.0-only",
+    "url": "https://ghp.ci/https://github.com/SuperStudio/SuperCom/releases/download/4.2/SuperCom-4.2.zip",
+    "hash": "fc7e2895dd8d3eed7301dd171726b2a77d93f16625c91373c823fa0b945d6ede",
+    "checkver": {
+        "github": "SuperStudio/SuperCom"
+    },
+    "shortcuts": [
+        [
+            "SuperCom.exe",
+            "SuperCom"
+        ]
+    ],
+    "autoupdate": {
+        "url": "https://ghp.ci/https://github.com/SuperStudio/SuperCom/releases/download/$version/SuperCom-$version.zip",
+        "hash": {
+            "url": "$url.sha256"
+        }
+    }
+
+}

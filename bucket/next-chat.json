@@ -8,10 +8,6 @@
     "checkver": {
         "github": "ChatGPTNextWeb/ChatGPT-Next-Web"
     },
-    "bin": [[
-        "NextChat.exe",
-        "ngt"
-    ]],
     "extract_dir": [
         "PFiles\\NextChat"
     ],

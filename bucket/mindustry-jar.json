@@ -1,5 +1,5 @@
 {
-    "version": "v146",
+    "version": "146",
     "description": "The automation tower defense RTS",
     "homepage": "https://mindustrygame.github.io/",
     "license": "GPL-3.0-only",  // 使用更精确的SPDX标识符
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghp.ci/https://github.com/Anuken/Mindustry/releases/download/$version/Mindustry.jar"
+                "url": "https://ghp.ci/https://github.com/Anuken/Mindustry/releases/download/v$version/Mindustry.jar"
             },
             "32bit": {
-                "url": "https://ghp.ci/https://github.com/Anuken/Mindustry/releases/download/$version/Mindustry.jar"
+                "url": "https://ghp.ci/https://github.com/Anuken/Mindustry/releases/download/v$version/Mindustry.jar"
             }
         },
         "hash": {
