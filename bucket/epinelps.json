@@ -36,7 +36,8 @@
     ],
 
     "persist": [
-        "data"
+        "data",
+        "cache"
     ]
 
 }
