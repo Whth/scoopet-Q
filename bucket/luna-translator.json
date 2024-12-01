@@ -18,7 +18,7 @@
     "homepage": "https://github.com/HIllya51/LunaTranslator",
     "description": "Galgame翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator , support HOOK / OCR / clipboard",
     "checkver": {
-        "github": "HIllya51/LunaTranslator"
+        "github": "https://github.com/HIllya51/LunaTranslator"
     },
     "autoupdate": {
         "url": "https://ghp.ci/https://github.com/HIllya51/LunaTranslator/releases/download/$version/LunaTranslator.zip",

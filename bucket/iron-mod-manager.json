@@ -6,7 +6,7 @@
     "url": "https://ghp.ci/https://github.com/bcssov/IronyModManager/releases/download/v1.26.201/win-x64.zip",
     "hash": "dfd1736881b7005be66661c91fe16073a56797481072a08ca4e3fc1e5ec8ad5f",
     "checkver": {
-        "github": "bcssov/IronyModManager"
+        "github": "https://github.com/bcssov/IronyModManager"
     },
     "shortcuts": [
         [

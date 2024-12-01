@@ -13,7 +13,7 @@
     },
     "bin": [["arc_unpacker.exe", "arcupak"]],
     "checkver": {
-        "github": "vn-tools/arc_unpacker"
+        "github": "https://github.com/vn-tools/arc_unpacker"
     },
     "autoupdate": {
         "url": "https://ghp.ci/https://github.com/vn-tools/arc_unpacker/releases/download/$version/arc_unpacker-$version-bin.zip",

@@ -19,7 +19,7 @@
     "homepage": "https://github.com/EpinelPS/EpinelPS",
     "description": "A private server for another anime game",
     "checkver": {
-        "github": "EpinelPS/EpinelPS"
+        "github": "https://github.com/EpinelPS/EpinelPS"
     },
     "autoupdate": {
         "url": "https://ghp.ci/https://github.com/EpinelPS/EpinelPS/releases/download/$version/ServerAndServerSelector_v$version.zip",

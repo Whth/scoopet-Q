@@ -37,7 +37,7 @@
         ]
     ],
     "checkver": {
-        "github": "NaiboWang/EasySpider"
+        "github": "https://github.com/NaiboWang/EasySpider"
     },
     "autoupdate": {
         "architecture": {
