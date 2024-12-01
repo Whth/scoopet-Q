@@ -26,5 +26,17 @@
         "hash": {
             "url": "$url.sha256"
         }
-    }
+    },
+    "post_install": [
+    "$data_path=\"$persist_dir\\data\"",
+    "if (Test-Path -Path $data_path\\db.json) {Copy-Item -Path $data_path\\db.json -Destination $dir\\db.json -Force}"
+],
+    "pre_uninstall": [
+        "if (Test-Path -Path $dir\\db.json) {Copy-Item -Path $dir\\db.json -Destination $dir\\data -Force}"
+    ],
+
+    "persist": [
+        "data"
+    ]
+
 }
