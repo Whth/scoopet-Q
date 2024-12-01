@@ -1,7 +1,7 @@
 {
-    "version": "0.1.0",
-    "url": "https://ghp.ci/https://github.com/Whth/gpt_academic_l/releases/download/0.1.0/gpt-a-l-v0.1.0.zip",
-    "hash": "90f9a50c28c4df6bf74bd54ca95a717a8978551fdf7a8b3080be361edca60995",
+    "version": "0.1.2",
+    "url": "https://ghp.ci/https://github.com/Whth/gpt_academic_l/releases/download/0.1.2/gpt-a-l-v0.1.2.zip",
+    "hash": "3669ca9692417137188c279da6ca086d07371eaabc6a06b78fdd323d94813f30",
     "license": "GPL-3.0-only",
     "bin": [
         [
