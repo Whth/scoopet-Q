@@ -2,7 +2,7 @@
     "version": "6.9.4",
 
     "url": "https://ghp.ci/https://github.com/HIllya51/LunaTranslator/releases/download/v6.9.4/LunaTranslator.zip",
-    "hash": "4bbdccada34ac79e8789f944dacaea45b54bb379156d736b4ad5ef956f1a9469",
+    "hash": "6b1d7d16177450c7a4c25a5652de7c602e06a9cf5226b2770f16bcce43afd7c5",
     "license": "GPL-3.0-only",
     "bin": "LunaTranslator.exe",
     "shortcuts": [
