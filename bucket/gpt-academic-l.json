@@ -1,7 +1,7 @@
 {
-    "version": "0.1.2",
-    "url": "https://ghp.ci/https://github.com/Whth/gpt_academic_l/releases/download/0.1.2/gpt-a-l-v0.1.2.zip",
-    "hash": "3669ca9692417137188c279da6ca086d07371eaabc6a06b78fdd323d94813f30",
+    "version": "0.1.3",
+    "url": "https://ghp.ci/https://github.com/Whth/gpt_academic_l/releases/download/0.1.3/gpt-a-l-v0.1.3.zip",
+    "hash": "031b5a438618961bea994edd5b9e61f65dca81f172c1e601ebef87b11fcd9efd",
     "license": "GPL-3.0-only",
     "bin": [
         [
@@ -17,13 +17,16 @@
     "checkver": {
         "github": "https://github.com/Whth/gpt_academic_l"
     },
-    "depends": ["uv"],
+    "depends": "uv",
     "autoupdate": {
         "url": "https://ghp.ci/https://github.com/Whth/gpt_academic_l/releases/download/$version/gpt-a-l-v$version.zip",
         "hash": {
             "url": "$url.sha256"
         }
     },
-
-    "persist": ["config","gpt_log","private_upload"]
+    "persist": [
+        "config",
+        "gpt_log",
+        "private_upload"
+    ]
 }
