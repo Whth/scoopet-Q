@@ -27,7 +27,7 @@
         [
             "explorer.exe",
             "espdata",
-            "$dir/Data"
+            "$dir\\Data"
         ]
     ],
     "shortcuts": [
@@ -51,6 +51,25 @@
         "hash": {
             "url": "$url.sha256"
         }
+    },
+    "post_install": [
+        "$sourceDir = \"$dir\"  # 替换为你的源目录路径",
+        "$originalFolders = Get-ChildItem -Path $sourceDir -Directory -Filter *.original",
+        "foreach ($folder in $originalFolders) {",
+        "  $targetDir = $folder.FullName -replace '\\.original$', ''",
+        "  if (-Not (Test-Path -Path $targetDir)) {",
+        "    New-Item -ItemType Directory -Path $targetDir | Out-Null",
+        "  }",
+        "  $files = Get-ChildItem -Path $folder.FullName -File",
+        "  foreach ($file in $files) {",
+        "    $newFilePath = Join-Path -Path $targetDir -ChildPath $file.Name",
+        "    Move-Item -Path $file.FullName -Destination $newFilePath -Force",
+        "  }",
+        "  Remove-Item -Path $folder.FullName -Recurse -Force",
+        "}"
+    ],
+    "suggest": {
+        "bbdown": "bbdown"
     },
     "persist": [
         "user_data",
