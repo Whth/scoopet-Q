@@ -3,18 +3,13 @@
     "url": "https://ghp.ci/https://github.com/HIllya51/LunaTranslator/releases/download/v6.9.6/LunaTranslator.zip",
     "hash": "86afb431d58eaf523aa90be150aa5f6488a2288bd22a3a7dab1956df6e0fee20",
     "license": "GPL-3.0-only",
-    "bin": "LunaTranslator.exe",
     "shortcuts": [
         [
             "LunaTranslator.exe",
             "LunaTranslator"
-        ],
-        [
-            "LunaTranslator_admin.exe",
-            "LunaTranslatorAdmin"
         ]
     ],
-    "extract_dir": "LunaTranslator",
+    "extract_to": "tmp",
     "homepage": "https://github.com/HIllya51/LunaTranslator",
     "description": "Galgame翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator , support HOOK / OCR / clipboard",
     "checkver": {
@@ -26,6 +21,14 @@
             "url": "$url.sha256"
         }
     },
+    "pre_install": [
+        "New-Item -Path $dir\\LunaTranslator.exe -ItemType File -Force  | Out-Null"
+    ],
+    "post_install": [
+        "Remove-Item -Path $dir\\LunaTranslator.exe -Force",
+        "Move-Item -Path $dir\\tmp\\LunaTranslator\\* -Destination $dir\\ -Force",
+        "Remove-Item -Path $dir\\tmp -Recurse -Force"
+    ],
     "persist": [
         "userconfig",
         "translation_record"
