@@ -1,0 +1,43 @@
+{
+    "version": "1.0.7",
+    "url": "https://ghp.ci/https://github.com/iTXTech/mcl-installer/releases/download/v1.0.7/mcl-installer-1.0.7-windows-amd64.exe",
+    "hash": "7ded85a85c8beae06f4dd7436419b25207b513c76addc7738b5779be04d0acd9",
+    "license": "AGPL-3.0-only",
+    "bin": [
+        ["mcl-installer-1.0.7-windows-amd64.exe","mcl-install"],
+        ["mcl.cmd","mcl"]
+    ],
+    "extract_dir": "mcl-installer",
+    "homepage": "https://github.com/mamoe/mirai",
+    "description": "高效率 QQ 机器人支持库",
+    "checkver": {
+        "github": "https://github.com/iTXTech/mcl-installer"
+    },
+    "autoupdate": {
+        "url": "https://ghp.ci/https://github.com/iTXTech/mcl-installer/releases/download/v$version/$version-windows-amd64.exe",
+        "hash": {
+            "url": "$url.sha256"
+        }
+    },
+    "pre_install": "touch $dir\\mcl.cmd",
+    "post_install": [
+        "Remove-Item -Path \"$dir\\mcl.cmd\" -Force -ErrorAction SilentlyContinue",
+        "Set-Location -Path $dir",
+        "'n', 'y', 'y' -join \"`n\" | & mcl-install",
+        "$file_content = Get-Content -Path \"$dir\\mcl.cmd\" -Raw",
+        "\"cd /d $dir\" | Set-Content -Path \"$dir\\mcl.cmd\"",
+        "$file_content | Add-Content -Path \"$dir\\mcl.cmd\""
+    ],
+    "persist": [
+        "config",
+        "data",
+        "logs",
+        "plugins",
+        "bots"
+    ],
+    "suggest": [
+        "qsign-onekey",
+        "openjre",
+        "openjdk"
+    ]
+}

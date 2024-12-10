@@ -1,0 +1,27 @@
+{
+    "version": "240220",
+    "url": "https://ghp.ci/https://github.com/rhwong/qsign-onekey/releases/download/240220/Qsign-Onekey-1.1.9-Bitterest.2024-02-20.zip",
+    "hash": "2fa7486c2597fe203f1b3123776282c75e6e953872ae2ea81788581b4d51feb0",
+    "license": "GPL-3.0-only",
+    "bin": [
+        ["go-cqhttp.exe","cqhttp"],
+        ["Start_Qsign.bat", "qsign-onekey"],
+        ["code","qsign-config","$dir\\config.yml"]
+    ],
+    "extract_dir": "Qsign-Onekey-1.1.9-Bitterest(2024-02-20)",
+    "homepage": "https://github.com/rhwong/qsign-onekey",
+    "description": "Quickly start the Qsign service on Windows",
+    "checkver": {
+        "github": "https://github.com/rhwong/qsign-onekey"
+    },
+    "persist": ["txlib","configs"],
+    "post_install": [
+        "if (Test-Path $dir\\txlib.original) { Copy-Item -Path $dir\\txlib.original\\* -Destination $dir\\txlib -Force; Remove-Item -Path $dir\\txlib.original -Force -Recurse} ",
+        "if (Test-Path $dir\\configs\\config.yml) { Copy-Item -Path $dir\\configs\\config.yml -Destination $dir -Force} "
+    ],
+    "pre_uninstall": [
+        "if (Test-Path $dir\\config.yml) { Copy-Item -Path $dir\\config.yml -Destination $dir\\configs -Force} "
+    ]
+
+}
+
