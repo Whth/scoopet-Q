@@ -23,7 +23,7 @@
     "post_install": [
         "Remove-Item -Path \"$dir\\mcl.cmd\" -Force -ErrorAction SilentlyContinue",
         "Set-Location -Path $dir",
-        "'n', 'y', 'y' -join \"`n\" | & mcl-install",
+        "'y', 'y', 'y' -join \"`n\" | & mcl-install",
         "$file_content = Get-Content -Path \"$dir\\mcl.cmd\" -Raw",
         "\"cd /d $dir\" | Set-Content -Path \"$dir\\mcl.cmd\"",
         "$file_content | Add-Content -Path \"$dir\\mcl.cmd\""
