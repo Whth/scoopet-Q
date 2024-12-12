@@ -1,0 +1,21 @@
+{
+    "version": "0.5.11",
+    "url": "https://ghp.ci/https://github.com/Ai00-X/ai00_server/releases/download/v0.5.11/ai00_server-v0.5.11-x86_64-pc-windows-msvc.zip",
+    "hash": "a969c3200f751de83e4a618244e4c0a719dbec0d55df4817d80d563135b6bfbc",
+    "license": "MIT",
+    "bin": ["ai00-server.exe",
+    "converter.exe"],
+    "extract_dir": "dist",
+    "homepage": "https://github.com/Ai00-X/ai00_server",
+    "description": "The all-in-one RWKV runtime box with embed, RAG, AI agents, and more.",
+    "checkver": {
+        "github": "https://github.com/Ai00-X/ai00_server"
+    },
+    "persist": ["assets\\configs"],
+    "autoupdate": {
+        "url": "https://ghp.ci/https://github.com/Ai00-X/ai00_server/releases/download/v$version/ai00_server-v$version-x86_64-pc-windows-msvc.zip",
+        "hash": {
+            "url": "$url.sha256"
+        }
+    }
+}
