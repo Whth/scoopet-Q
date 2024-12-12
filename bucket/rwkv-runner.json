@@ -1,0 +1,32 @@
+{
+    "version": "1.8.9",
+    "url": "https://ghp.ci/https://github.com/josStorer/RWKV-Runner/releases/download/v1.8.9/RWKV-Runner_windows_x64.exe",
+    "hash": "9ce239833acea5754f5c0529d8b1dd333f61af0d37bb4e80510a8d1ddeb8c40c",
+    "license": "GPL-3.0-only",
+    "bin": [["RWKV-Runner_windows_x64.exe", "RWKV-Runner"]],
+    "extract_dir": "rwkv-runner",
+    "homepage": "https://github.com/josStorer/RWKV-Runner",
+    "description": "A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.",
+    "checkver": {
+        "github": "https://github.com/josStorer/RWKV-Runner"
+    },
+    "autoupdate": {
+        "url": "https://ghp.ci/https://github.com/josStorer/RWKV-Runner/releases/download/v$version/RWKV-Runner_windows_x64.exe",
+        "hash": {
+            "url": "$url.sha256"
+        }
+    },
+    "persist": [
+        "models",
+        "state-models",
+        "lora-models",
+        "midi",
+        "configs"
+    ],
+    "post_install": [
+        "if (Test-Path $dir\\configs\\config.json) { Copy-Item -Path $dir\\configs\\config.json -Destination $dir -Force} "
+    ],
+    "pre_uninstall": [
+        "if (Test-Path $dir\\config.json) { Copy-Item -Path $dir\\config.json -Destination $dir\\configs -Force} "
+    ]
+}
