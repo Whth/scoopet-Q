@@ -17,7 +17,10 @@
     "persist": ["txlib","configs"],
     "post_install": [
         "if (Test-Path $dir\\txlib.original) { Copy-Item -Path $dir\\txlib.original\\* -Destination $dir\\txlib -Force; Remove-Item -Path $dir\\txlib.original -Force -Recurse} ",
-        "if (Test-Path $dir\\configs\\config.yml) { Copy-Item -Path $dir\\configs\\config.yml -Destination $dir -Force} "
+        "if (Test-Path $dir\\configs\\config.yml) { Copy-Item -Path $dir\\configs\\config.yml -Destination $dir -Force} ",
+        "$file_content = Get-Content -Path \"$dir\\Start_Qsign.bat\" -Raw",
+        "\"cd /d $dir\" | Set-Content -Path \"$dir\\Start_Qsign.bat\"",
+        "$file_content | Add-Content -Path \"$dir\\Start_Qsign.bat\""
     ],
     "pre_uninstall": [
         "if (Test-Path $dir\\config.yml) { Copy-Item -Path $dir\\config.yml -Destination $dir\\configs -Force} "
