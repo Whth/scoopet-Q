@@ -3,13 +3,12 @@
     "url": "https://ghp.ci/https://github.com/josStorer/RWKV-Runner/releases/download/v1.9.0/RWKV-Runner_windows_x64.exe",
     "hash": "d13f6df5cf378f2d7ba0fc8179c4d9b79491770f4e7c54e7b6b96894ccfe5360",
     "license": "GPL-3.0-only",
-    "bin": [
+    "shortcuts": [
         [
             "RWKV-Runner_windows_x64.exe",
             "RWKV-Runner"
         ]
     ],
-    "extract_dir": "rwkv-runner",
     "homepage": "https://github.com/josStorer/RWKV-Runner",
     "description": "A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.",
     "checkver": {
@@ -21,6 +20,7 @@
             "url": "$url.sha256"
         }
     },
+
     "persist": [
         "models",
         "state-models",
