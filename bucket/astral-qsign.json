@@ -1,0 +1,20 @@
+{
+    "version": "9.0.56",
+    "url": "https://ghp.ci/https://github.com/ProtocolScience/Astral-QSignigngnn/releases/download/9.0.56/unidbg-fetch-qsign-9.0.56.zip",
+    "hash": "705d3d52e8a3a177a009725d7e5a4a6d59d12da59f9afdd276821b82c29fb5ae",
+    "license": "GPL-3.0-only",
+    "bin": [["server_up.bat", "astral-qsign-server"]],
+    "homepage": "https://github.com/ProtocolScience/Astral-QSignigngnn",
+    "description": "油腻的霸哥与企鹅的爱情故事",
+    "checkver": {
+        "github": "https://github.com/ProtocolScience/Astral-QSignigngnn"
+    },
+    "autoupdate": {
+        "url": "https://ghp.ci/https://github.com/ProtocolScience/Astral-QSignigngnn/releases/download/$version/unidbg-fetch-qsign-$version.zip",
+        "hash": {
+            "url": "$url.sha256"
+        }
+    },
+    "pre_install": "touch $dir\\server_up.bat",
+    "post_install": "echo \"$dir//jre//bin//java -jar $dir//unidbg-fetch-qsign.jar --basePath=$dir//txlib//$version\" > $dir\\server_up.bat"
+}
