@@ -1,6 +1,6 @@
 {
     "version": "0.1.3",
-    "url": "https://ghp.ci/https://github.com/Whth/gpt_academic_l/releases/download/0.1.3/gpt-a-l-v0.1.3.zip",
+    "url": "https://github.store/Whth/gpt_academic_l/releases/download/0.1.3/gpt-a-l-v0.1.3.zip",
     "hash": "031b5a438618961bea994edd5b9e61f65dca81f172c1e601ebef87b11fcd9efd",
     "license": "GPL-3.0-only",
     "bin": [
@@ -19,7 +19,7 @@
     },
     "depends": "uv",
     "autoupdate": {
-        "url": "https://ghp.ci/https://github.com/Whth/gpt_academic_l/releases/download/$version/gpt-a-l-v$version.zip",
+        "url": "https://github.store/Whth/gpt_academic_l/releases/download/$version/gpt-a-l-v$version.zip",
         "hash": {
             "url": "$url.sha256"
         }

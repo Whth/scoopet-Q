@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghp.ci/https://github.com/thewh1teagle/vibe/releases/download/v2.6.8/vibe_2.6.8_x64-setup.exe#/dl.7z",
+            "url": "https://github.store/thewh1teagle/vibe/releases/download/v2.6.8/vibe_2.6.8_x64-setup.exe#/dl.7z",
             "hash": "f3e3eacf0f5be0dc3e972a0341d3fe67fbb9765412fb75c90b7c6032d5994df2",
             "installer": {
                 "script": [
@@ -31,7 +31,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghp.ci/https://github.com/thewh1teagle/vibe/releases/download/v$version/vibe_${version}_x64-setup.exe#/dl.7z"
+                "url": "https://github.store/thewh1teagle/vibe/releases/download/v$version/vibe_${version}_x64-setup.exe#/dl.7z"
             }
         }
     }

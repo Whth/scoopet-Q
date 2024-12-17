@@ -5,14 +5,14 @@
     "license": "CC-BY-NC-SA-4.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghp.ci/https://github.com/NaiboWang/EasySpider/releases/download/v0.6.2/EasySpider_0.6.2_Windows_x64.7z",
+            "url": "https://github.store/NaiboWang/EasySpider/releases/download/v0.6.2/EasySpider_0.6.2_Windows_x64.7z",
             "hash": "da8928b49efd15cbe86e288bb51ea9a9a2f930d938ed8066046c44b72b31eba2",
             "extract_dir": [
                 "EasySpider_Windows_x64"
             ]
         },
         "32bit": {
-            "url": "https://ghp.ci/https://github.com/NaiboWang/EasySpider/releases/download/v0.6.2/EasySpider_0.6.2_Windows_x32.7z",
+            "url": "https://github.store/NaiboWang/EasySpider/releases/download/v0.6.2/EasySpider_0.6.2_Windows_x32.7z",
             "hash": "924cfce7374be21e386bc39186fbd25351a5ca82d2d5aacb297a657ea6a6c1d7",
             "extract_dir": [
                 "EasySpider_Windows_x32"
@@ -42,10 +42,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghp.ci/https://github.com/NaiboWang/EasySpider/releases/download/v$version/EasySpider_$version_Windows_x64.7z"
+                "url": "https://github.store/NaiboWang/EasySpider/releases/download/v$version/EasySpider_$version_Windows_x64.7z"
             },
             "32bit": {
-                "url": "https://ghp.ci/https://github.com/NaiboWang/EasySpider/releases/download/v$version/EasySpider_$version_Windows_x32.7z"
+                "url": "https://github.store/NaiboWang/EasySpider/releases/download/v$version/EasySpider_$version_Windows_x32.7z"
             }
         },
         "hash": {
