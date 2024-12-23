@@ -1,0 +1,20 @@
+{
+    "version": "1.2.4",
+    "url": "https://github.store/pinosante/VAM-Evolutionary-Character-Creation/releases/download/v1.2.4/VAM.Evolutionary.Character.Creation.v1.2.4.Windows.Executable.zip",
+    "hash": "2534570cd159e9b77f08c86cba83e5520bf655fb6b1525385b477db199a77666",
+    "license": "BSD-3-Clause",
+    "shortcuts": [
+        ["VAM Evolutionary Character Creation.exe", "VAM Evolutionary Character Creation"]
+    ],
+    "homepage": "https://github.com/pinosante/VAM-Evolutionary-Character-Creation",
+    "description": "Create beatiful girls, guys and futas using a sophisticated genetic algorithm.",
+    "checkver": {
+        "github": "https://github.com/pinosante/VAM-Evolutionary-Character-Creation"
+    },
+    "autoupdate": {
+        "url": "https://github.store/pinosante/VAM-Evolutionary-Character-Creation/releases/download/$version/VAM.Evolutionary.Character.Creation.v$version.Windows.Executable.zip",
+        "hash": {
+            "url": "$url.sha256"
+        }
+    }
+}
