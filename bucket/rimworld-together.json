@@ -1,0 +1,35 @@
+{
+    "version": "24.11.5.1",
+    "url": "https://github.store/Byte-Nova/Rimworld-Together/releases/download/24.11.5.1/win-x64.zip",
+    "hash": "a278251b47d73d25885ec03be5b9b5d7573d5744e4ecb14096a5dab4eac9a916",
+    "bin": [
+        [
+            "cmd","rimserver" ,"/c", "\"cd /d $dir && GameServer.exe\" "
+        ]
+
+    ],
+    "license": "ANN-4.0",
+    "homepage": "https://github.com/Byte-Nova/Rimworld-Together",
+    "description": "A Community Driven Multiplayer Mod for Rimworld!",
+    "checkver": {
+        "github": "https://github.com/Byte-Nova/Rimworld-Together"
+    },
+    "autoupdate": {
+        "url": "https://github.store/Byte-Nova/Rimworld-Together/releases/download/$version/win-x64.zip",
+        "hash": {
+            "url": "$url.sha256"
+        }
+    },
+    "persist": [
+        "Backups",
+        "Core",
+        "Factions",
+        "Logs",
+        "Maps",
+        "Mods",
+        "Saves",
+        "Settlements",
+        "Sites",
+        "Users"
+    ]
+}
