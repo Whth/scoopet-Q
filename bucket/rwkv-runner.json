@@ -20,14 +20,13 @@
             "url": "$url.sha256"
         }
     },
-
+    "pre_install": ["touch $dir\\config.json"],
     "persist": [
         "models",
         "state-models",
         "lora-models",
         "midi",
-        "configs"
-    ],
-    "post_install": "if (Test-Path $dir\\configs\\config.json) { Copy-Item -Path $dir\\configs\\config.json -Destination $dir -Force} ",
-    "pre_uninstall": "if (Test-Path $dir\\config.json) { Copy-Item -Path $dir\\config.json -Destination $dir\\configs -Force} "
+        "config.json"
+    ]
+
 }
