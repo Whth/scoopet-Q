@@ -20,7 +20,8 @@
             "url": "$url.sha256"
         }
     },
+    "pre_install": "touch $dir\\config.ini",
     "post_install": "Invoke-Command -ScriptBlock { & \"$dir\\Register.cmd\" }",
     "post_uninstall": "Invoke-Command -ScriptBlock { & \"$dir\\Uninstall.cmd\" }",
-    "persist": ["Image"]
+    "persist": ["Image","config.ini"]
 }
