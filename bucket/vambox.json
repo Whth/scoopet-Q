@@ -1,0 +1,27 @@
+{
+    "version": "0.7.3",
+    "url": "https://github.store/NaturalWhiteX/vambox-release/releases/download/0.7.3/vambox-v0.7.3.7z",
+    "hash": "abe3d6ff42aa86ce628b85b60b7beef7287a538dc5515bc4d704de2ace1d3c8b",
+    "license": "GPL-3.0-only",
+    "shortcuts": [["vambox.exe", "VaM Box"]],
+    "extract_dir": "vambox-win32-x64",
+    "homepage": "https://github.com/NaturalWhiteX/vambox-release",
+    "description": "这是 VaM Box 的发布主页",
+    "checkver": {
+        "github": "https://github.com/NaturalWhiteX/vambox-release"
+    },
+    "autoupdate": {
+        "url": "https://github.store/NaturalWhiteX/vambox-release/releases/download/$version/vambox-v$version.7z",
+        "hash": {
+            "url": "$url.sha256"
+        },
+        "notes": [
+            "Other available assets:",
+            "https://github.store/NaturalWhiteX/vambox-release/archive/refs/tags/$version.zip"
+        ]
+    },
+    "notes": [
+        "Other available assets:",
+        "https://github.store/NaturalWhiteX/vambox-release/archive/refs/tags/0.7.3.zip"
+    ]
+}
