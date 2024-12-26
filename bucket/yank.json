@@ -1,0 +1,33 @@
+{
+    "version": "3.78.1",
+    "url": "https://github.store/purocean/yn/releases/download/v3.78.1/Yank-Note-win-x64-3.78.1.zip",
+    "hash": "6365c9c56dab7430296b97fa096be38f8d66b46b5a1d2e3bbb4e3bf63514d55f",
+    "license": "AGPL-3.0-only",
+    "bin": [],
+    "shortcuts": [[
+        "Yank-Note.exe",
+        "Yank Note"
+    ]],
+    "extract_dir": "",
+    "homepage": "https://github.com/purocean/yn",
+    "description": "A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.",
+    "checkver": {
+        "github": "https://github.com/purocean/yn"
+    },
+    "autoupdate": {
+        "url": "https://github.store/purocean/yn/releases/download/v$version/Yank-Note-win-x64-$version.zip",
+        "hash": {
+            "url": "$url.sha256"
+        },
+        "notes": [
+            "Other available assets:",
+            "https://github.store/purocean/yn/releases/download/v$version/Yank-Note-win-x64-$version.exe",
+            "https://github.store/purocean/yn/archive/refs/tags/v$version.zip"
+        ]
+    },
+    "notes": [
+        "Other available assets:",
+        "https://github.store/purocean/yn/releases/download/v3.78.1/Yank-Note-win-x64-3.78.1.exe",
+        "https://github.store/purocean/yn/archive/refs/tags/v3.78.1.zip"
+    ]
+}
