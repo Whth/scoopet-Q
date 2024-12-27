@@ -1,0 +1,38 @@
+{
+    "version": "0.9.6",
+    "url": "https://github.store/ajeetdsouza/zoxide/releases/download/v0.9.6/zoxide-0.9.6-x86_64-pc-windows-msvc.zip",
+    "hash": "49cf729c1788570ce9c76e59f3aa77668ef1302444fdd16aeeb5748d2890f4ec",
+    "license": "GPL-3.0-only",
+    "bin": [["zoxide.exe", "zoxide"]],
+    "shortcuts": [],
+    "extract_dir": "",
+    "homepage": "https://github.com/ajeetdsouza/zoxide",
+    "description": "A smarter cd command. Supports all major shells.",
+    "checkver": {
+        "github": "https://github.com/ajeetdsouza/zoxide"
+    },
+    "autoupdate": {
+        "url": "https://github.store/ajeetdsouza/zoxide/releases/download/v$version/zoxide-$version-x86_64-pc-windows-msvc.zip",
+        "hash": {
+            "url": "$url.sha256"
+        },
+        "notes": [
+            "Other available assets:",
+            "https://github.store/ajeetdsouza/zoxide/archive/refs/tags/v$version.zip"
+        ]
+    },
+    "notes": [
+        "Other available assets:",
+        "https://github.store/ajeetdsouza/zoxide/archive/refs/tags/v0.9.6.zip"
+    ],
+    "post_install": [
+        "$lineToAdd = 'Invoke-Expression (& { (zoxide init powershell | Out-String) })'",
+        "if (Get-Content -Path $PROFILE | Where-Object { $_ -eq $lineToAdd }) { echo 'already added'} else { echo 'Invoke-Expression (& { (zoxide init powershell | Out-String) })' >> $profile }"
+    ],
+    "post_uninstall": [
+        "# 定义要删除的行",
+        "$lineToDelete = 'Invoke-Expression (& { (zoxide init powershell | Out-String) })'",
+        "# 读取文件内容并过滤掉指定的行",
+        "Get-Content -Path $PROFILE  | Where-Object { $_ -eq $lineToDelete } | echo 'You have to manually remove \"$lineToDelete\" from your $PROFILE file.'"
+    ]
+}
