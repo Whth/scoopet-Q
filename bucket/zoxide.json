@@ -4,7 +4,6 @@
     "hash": "49cf729c1788570ce9c76e59f3aa77668ef1302444fdd16aeeb5748d2890f4ec",
     "license": "GPL-3.0-only",
     "bin": [["zoxide.exe", "zoxide"]],
-    "shortcuts": [],
     "extract_dir": "",
     "homepage": "https://github.com/ajeetdsouza/zoxide",
     "description": "A smarter cd command. Supports all major shells.",
