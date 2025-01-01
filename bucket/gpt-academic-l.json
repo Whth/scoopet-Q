@@ -1,11 +1,11 @@
 {
-    "version": "0.1.3",
-    "url": "https://github.store/Whth/gpt_academic_l/releases/download/0.1.3/gpt-a-l-v0.1.3.zip",
-    "hash": "031b5a438618961bea994edd5b9e61f65dca81f172c1e601ebef87b11fcd9efd",
+    "version": "0.1.17",
+    "url": "https://github.store/Whth/gpt_academic_l/releases/download/0.1.17/gpt-a-l-v0.1.17.zip",
+    "hash": "6a5c8b116bfba2a25f3fb0afa7ca657a24ef7ec13e08de5a94e291eeb17044ab",
     "license": "GPL-3.0-only",
     "bin": [
         [
-            "uv",
+            "uv.exe",
             "gptal",
             "--directory $original_dir",
             "run",
@@ -17,13 +17,20 @@
     "checkver": {
         "github": "https://github.com/Whth/gpt_academic_l"
     },
-    "depends": "uv",
     "autoupdate": {
         "url": "https://github.store/Whth/gpt_academic_l/releases/download/$version/gpt-a-l-v$version.zip",
         "hash": {
             "url": "$url.sha256"
-        }
+        },
+        "notes": [
+            "Other available assets:",
+            "https://github.store/Whth/gpt_academic_l/archive/refs/tags/$version.zip"
+        ]
     },
+    "notes": [
+        "Other available assets:",
+        "https://github.store/Whth/gpt_academic_l/archive/refs/tags/0.1.17.zip"
+    ],
     "persist": [
         "config",
         "gpt_log",
