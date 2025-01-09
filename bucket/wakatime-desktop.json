@@ -1,0 +1,33 @@
+{
+    "version": "2.1.2",
+    "url": "https://github.store/wakatime/desktop-wakatime/releases/download/v2.1.2/wakatime-win32.exe#dl.7z",
+    "hash": "fa39b09b773f27dad51d265b736ccdbf6542b64c533c506631ffcee5fc1cbf84",
+    "license": "BSD-3-Clause",
+    "shortcuts": [
+        ["WakaTime.exe", "WakaTime"]
+    ],
+    "homepage": "https://github.com/wakatime/desktop-wakatime",
+    "description": "Windows & Linux system tray app for automatic time tracking and metrics generated from your Figma, Postman, etc. usage.",
+    "checkver": {
+        "github": "https://github.com/wakatime/desktop-wakatime"
+    },
+    "pre_install": [
+        "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+        "Move-Item \"$dir\\`$R0\\*\" \"$dir\"",
+        "Remove-Item \"$dir\\`$PLUGINSDIR\",\"$dir\\`$R0\" -Force -Recurse"
+    ],
+    "autoupdate": {
+        "url": "https://github.store/wakatime/desktop-wakatime/releases/download/v$version/wakatime-win32.exe#dl.7z",
+        "hash": {
+            "url": "$url.sha256"
+        },
+        "notes": [
+            "Other available assets:",
+            "https://github.store/wakatime/desktop-wakatime/archive/refs/tags/v$version.zip"
+        ]
+    },
+    "notes": [
+        "Other available assets:",
+        "https://github.store/wakatime/desktop-wakatime/archive/refs/tags/v2.1.2.zip"
+    ]
+}
