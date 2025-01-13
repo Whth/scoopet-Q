@@ -1,0 +1,35 @@
+{
+    "version": "3.18",
+    "url": "https://github.store/ar51an/iperf3-win-builds/releases/download/3.18/iperf-3.18-win7-64Bit.zip",
+    "hash": "61472ca2b0d651b31c545172686ebf45d725b1911cb46bb7b086613c63bb2e28",
+    "bin": [
+        ["iperf3.exe", "iperf3"],
+        ["iperf3.exe", "iperf"]
+    ],
+    "license": "GPL-3.0-only",
+    "homepage": "https://github.com/ar51an/iperf3-win-builds",
+    "description": "iperf3 binaries for Windows. Benchmark your network limits.",
+    "checkver": {
+        "github": "https://github.com/ar51an/iperf3-win-builds"
+    },
+    "autoupdate": {
+        "url": "https://github.store/ar51an/iperf3-win-builds/releases/download/$version/iperf-$version-win7-64Bit.zip",
+        "hash": {
+            "url": "$url.sha256"
+        },
+        "notes": [
+            "Other available assets:",
+            "https://github.store/ar51an/iperf3-win-builds/releases/download/$version/iperf-$version-win64-dynamic-auth.zip",
+            "https://github.store/ar51an/iperf3-win-builds/releases/download/$version/iperf-$version-win64-static-auth.zip",
+            "https://github.store/ar51an/iperf3-win-builds/releases/download/$version/iperf-$version-win64.zip",
+            "https://github.store/ar51an/iperf3-win-builds/archive/refs/tags/$version.zip"
+        ]
+    },
+    "notes": [
+        "Other available assets:",
+        "https://github.store/ar51an/iperf3-win-builds/releases/download/3.18/iperf-3.18-win64-dynamic-auth.zip",
+        "https://github.store/ar51an/iperf3-win-builds/releases/download/3.18/iperf-3.18-win64-static-auth.zip",
+        "https://github.store/ar51an/iperf3-win-builds/releases/download/3.18/iperf-3.18-win64.zip",
+        "https://github.store/ar51an/iperf3-win-builds/archive/refs/tags/3.18.zip"
+    ]
+}
