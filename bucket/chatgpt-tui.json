@@ -1,0 +1,28 @@
+{
+    "version": "1.3.5",
+    "url": "https://github.store/j178/chatgpt/releases/download/v1.3.5/chatgpt_Windows_x86_64.zip",
+    "hash": "590ac40945eb0e95df8fbda40c4fc2b119a5f9db92a26c2ed2c9591923fe2171",
+    "license": "Unknown",
+    "bin": [
+        ["chatgpt.exe", "cgu"]
+    ],
+    "homepage": "https://github.com/j178/chatgpt",
+    "description": "An elegant interactive CLI for ChatGPT",
+    "checkver": {
+        "github": "https://github.com/j178/chatgpt"
+    },
+    "autoupdate": {
+        "url": "https://github.store/j178/chatgpt/releases/download/v$version/chatgpt_Windows_x86_64.zip",
+        "hash": {
+            "url": "$url.sha256"
+        },
+        "notes": [
+            "Other available assets:",
+            "https://github.store/j178/chatgpt/archive/refs/tags/v$version.zip"
+        ]
+    },
+    "notes": [
+        "Other available assets:",
+        "https://github.store/j178/chatgpt/archive/refs/tags/v1.3.5.zip"
+    ]
+}
