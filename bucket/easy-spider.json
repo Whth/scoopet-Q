@@ -1,19 +1,19 @@
 {
-    "version": "0.6.2",
+    "version": "0.6.3",
     "description": "About\nA visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
     "homepage": "https://www.easyspider.net/",
     "license": "CC-BY-NC-SA-4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.store/NaiboWang/EasySpider/releases/download/v0.6.2/EasySpider_0.6.2_Windows_x64.7z",
-            "hash": "da8928b49efd15cbe86e288bb51ea9a9a2f930d938ed8066046c44b72b31eba2",
+            "url": "https://github.store/NaiboWang/EasySpider/releases/download/v0.6.3/EasySpider_0.6.3_Windows_x64.7z",
+            "hash": "061dd13a3cc4eec8718bd0b1cb9fd38043a35fd6fb2fa04d62d920bd6be45fe5",
             "extract_dir": [
                 "EasySpider_Windows_x64"
             ]
         },
         "32bit": {
-            "url": "https://github.store/NaiboWang/EasySpider/releases/download/v0.6.2/EasySpider_0.6.2_Windows_x32.7z",
-            "hash": "924cfce7374be21e386bc39186fbd25351a5ca82d2d5aacb297a657ea6a6c1d7",
+            "url": "https://github.store/NaiboWang/EasySpider/releases/download/v0.6.3/EasySpider_0.6.3_Windows_x32.7z",
+            "hash": "3d1672a04a1b02157cddb8808b2ce84fea5ad7f4fbc4acfa6f99053b99612f91",
             "extract_dir": [
                 "EasySpider_Windows_x32"
             ]
