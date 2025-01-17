@@ -1,12 +1,10 @@
 {
-    "version": "0.1.5",
-    "url": "https://ghproxy.cc/https://github.com/Whth/ebox/releases/download/v0.1.5/ebox_v0.1.5.zip",
-    "hash": "561c393537980245e41a326e630acc5bb46dcb8c79961bc40d70daef3bd9d13d",
+    "version": "0.1.8",
+    "url": "https://ghproxy.cc/https://github.com/Whth/ebox/releases/download/v0.1.8/ebox_v0.1.8.zip",
+    "hash": "ef44800274e2a090e9e22b888f6579ed16700d13deca5c9a9f6b153363c4d696",
     "license": "GPL-3.0-only",
     "extract_dir": "dist",
-    "env_add_path": [
-        "."
-    ],
+    "env_add_path": ".",
     "homepage": "https://github.com/Whth/ebox",
     "description": "A bunch of toys",
     "checkver": {
@@ -24,6 +22,6 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/Whth/ebox/archive/refs/tags/v0.1.5.zip"
+        "https://ghproxy.cc/https://github.com/Whth/ebox/archive/refs/tags/v0.1.8.zip"
     ]
 }
