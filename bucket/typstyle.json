@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.store/Enter-tainer/typstyle/releases/download/v0.12.10/typstyle-x86_64-pc-windows-msvc.exe#/typstyle.exe",
+            "url": "https://ghproxy.cc/https://github.com/Enter-tainer/typstyle/releases/download/v0.12.10/typstyle-x86_64-pc-windows-msvc.exe#/typstyle.exe",
             "hash": "520df1e38c3d7cd57726488a0140df9d5965ac80afd94892111cb35cf4adb6dc"
         },
         "arm64": {
-            "url": "https://github.store/Enter-tainer/typstyle/releases/download/v0.12.10/typstyle-aarch64-pc-windows-msvc.exe#/typstyle.exe",
+            "url": "https://ghproxy.cc/https://github.com/Enter-tainer/typstyle/releases/download/v0.12.10/typstyle-aarch64-pc-windows-msvc.exe#/typstyle.exe",
             "hash": "9ddacb96c4ce7a2a2d8351a8cd4856ee05f0ad4169eb746134f96579a2be3f67"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.store/Enter-tainer/typstyle/releases/download/v$version/typstyle-x86_64-pc-windows-msvc.exe#/typstyle.exe"
+                "url": "https://ghproxy.cc/https://github.com/Enter-tainer/typstyle/releases/download/v$version/typstyle-x86_64-pc-windows-msvc.exe#/typstyle.exe"
             },
             "arm64": {
-                "url": "https://github.store/Enter-tainer/typstyle/releases/download/v$version/typstyle-aarch64-pc-windows-msvc.exe#/typstyle.exe"
+                "url": "https://ghproxy.cc/https://github.com/Enter-tainer/typstyle/releases/download/v$version/typstyle-aarch64-pc-windows-msvc.exe#/typstyle.exe"
             }
         }
     }

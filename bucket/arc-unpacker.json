@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-    "url": "https://github.store/vn-tools/arc_unpacker/releases/download/0.11/arc_unpacker-0.11-bin.zip",
+    "url": "https://ghproxy.cc/https://github.com/vn-tools/arc_unpacker/releases/download/0.11/arc_unpacker-0.11-bin.zip",
 
     "hash": "c55bdd25a8f4e0f9aa58e2f2c806faf179514f4b929c43016dbf606d16ba2bc7"
 
@@ -16,7 +16,7 @@
         "github": "https://github.com/vn-tools/arc_unpacker"
     },
     "autoupdate": {
-        "url": "https://github.store/vn-tools/arc_unpacker/releases/download/$version/arc_unpacker-$version-bin.zip",
+        "url": "https://ghproxy.cc/https://github.com/vn-tools/arc_unpacker/releases/download/$version/arc_unpacker-$version-bin.zip",
         "hash": {
             "url": "$url.sha256"
         }

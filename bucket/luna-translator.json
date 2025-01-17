@@ -1,6 +1,6 @@
 {
     "version": "6.21.0",
-    "url": "https://github.store/HIllya51/LunaTranslator/releases/download/v6.21.0/LunaTranslator.zip",
+    "url": "https://ghproxy.cc/https://github.com/HIllya51/LunaTranslator/releases/download/v6.21.0/LunaTranslator.zip",
     "license": "GPL-3.0-only",
     "shortcuts": [
         [
@@ -15,7 +15,7 @@
         "github": "https://github.com/HIllya51/LunaTranslator"
     },
     "autoupdate": {
-        "url": "https://github.store/HIllya51/LunaTranslator/releases/download/v$version/LunaTranslator.zip"
+        "url": "https://ghproxy.cc/https://github.com/HIllya51/LunaTranslator/releases/download/v$version/LunaTranslator.zip"
     },
     "pre_install": "New-Item -Path $dir\\LunaTranslator.exe -ItemType File -Force  | Out-Null",
     "post_install": [

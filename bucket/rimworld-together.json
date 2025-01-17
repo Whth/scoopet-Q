@@ -1,6 +1,6 @@
 {
     "version": "24.11.5.1",
-    "url": "https://github.store/Byte-Nova/Rimworld-Together/releases/download/24.11.5.1/win-x64.zip",
+    "url": "https://ghproxy.cc/https://github.com/Byte-Nova/Rimworld-Together/releases/download/24.11.5.1/win-x64.zip",
     "hash": "a278251b47d73d25885ec03be5b9b5d7573d5744e4ecb14096a5dab4eac9a916",
     "bin": [
         [
@@ -15,7 +15,7 @@
         "github": "https://github.com/Byte-Nova/Rimworld-Together"
     },
     "autoupdate": {
-        "url": "https://github.store/Byte-Nova/Rimworld-Together/releases/download/$version/win-x64.zip",
+        "url": "https://ghproxy.cc/https://github.com/Byte-Nova/Rimworld-Together/releases/download/$version/win-x64.zip",
         "hash": {
             "url": "$url.sha256"
         }
