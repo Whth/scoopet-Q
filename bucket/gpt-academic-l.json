@@ -1,7 +1,7 @@
 {
-    "version": "0.1.17",
-    "url": "https://ghproxy.cc/https://github.com/Whth/gpt_academic_l/releases/download/0.1.17/gpt-a-l-v0.1.17.zip",
-    "hash": "6a5c8b116bfba2a25f3fb0afa7ca657a24ef7ec13e08de5a94e291eeb17044ab",
+    "version": "0.1.20",
+    "url": "https://ghproxy.cc/https://github.com/Whth/gpt_academic_l/releases/download/0.1.20/gpt-a-l-v0.1.20.zip",
+    "hash": "ca2832fd67eca430851a0126f8d3676dcfdd28a173a742c60c5ff3d85dac37c8",
     "license": "GPL-3.0-only",
     "bin": [
         [
@@ -29,7 +29,7 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/Whth/gpt_academic_l/archive/refs/tags/0.1.17.zip"
+        "https://ghproxy.cc/https://github.com/Whth/gpt_academic_l/archive/refs/tags/0.1.20.zip"
     ],
     "persist": [
         "config",
