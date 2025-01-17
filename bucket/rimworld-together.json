@@ -1,12 +1,14 @@
 {
-    "version": "24.11.5.1",
-    "url": "https://ghproxy.cc/https://github.com/Byte-Nova/Rimworld-Together/releases/download/24.11.5.1/win-x64.zip",
-    "hash": "a278251b47d73d25885ec03be5b9b5d7573d5744e4ecb14096a5dab4eac9a916",
+    "version": "25.1.2.1",
+    "url": "https://ghproxy.cc/https://github.com/Byte-Nova/Rimworld-Together/releases/download/25.1.2.1/win-x64.zip",
+    "hash": "892b6c411e74453e34dbd52d5dba58b0510fa95899eb81d23c1d1fb2a57917ca",
     "bin": [
         [
-            "cmd","rimserver" ,"/c", "\"cd /d $dir && GameServer.exe\" "
+            "cmd",
+            "rimserver",
+            "/c",
+            "\"cd /d $dir && GameServer.exe\" "
         ]
-
     ],
     "license": "ANN-4.0",
     "homepage": "https://github.com/Byte-Nova/Rimworld-Together",
