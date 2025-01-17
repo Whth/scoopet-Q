@@ -1,17 +1,19 @@
 {
-    "version": "0.5.11",
-    "url": "https://ghproxy.cc/https://github.com/Ai00-X/ai00_server/releases/download/v0.5.11/ai00_server-v0.5.11-x86_64-pc-windows-msvc.zip",
-    "hash": "a969c3200f751de83e4a618244e4c0a719dbec0d55df4817d80d563135b6bfbc",
+    "version": "0.5.12",
+    "url": "https://ghproxy.cc/https://github.com/Ai00-X/ai00_server/releases/download/v0.5.12/ai00_server-v0.5.12-x86_64-pc-windows-msvc.zip",
+    "hash": "a31ef1c852c0f636b40a5b0149de783387c21a3e04cad536bfee9672c6d0ace5",
     "license": "MIT",
-    "bin": ["ai00-server.exe",
-    "converter.exe"],
+    "bin": [
+        "ai00-server.exe",
+        "converter.exe"
+    ],
     "extract_dir": "dist",
     "homepage": "https://github.com/Ai00-X/ai00_server",
     "description": "The all-in-one RWKV runtime box with embed, RAG, AI agents, and more.",
     "checkver": {
         "github": "https://github.com/Ai00-X/ai00_server"
     },
-    "persist": ["assets\\configs"],
+    "persist": "assets\\configs",
     "autoupdate": {
         "url": "https://ghproxy.cc/https://github.com/Ai00-X/ai00_server/releases/download/v$version/ai00_server-v$version-x86_64-pc-windows-msvc.zip",
         "hash": {
