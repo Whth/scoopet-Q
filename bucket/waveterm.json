@@ -1,10 +1,15 @@
 {
-    "version": "0.10.1",
-    "url": "https://ghproxy.cc/https://github.com/wavetermdev/waveterm/releases/download/v0.10.1/Wave-win32-x64-0.10.1.msi",
-    "hash": "265a034d4735040aea7d207dc57b07406097cee1554d21ac2ba804ccf438da51",
+    "version": "0.10.4",
+    "url": "https://ghproxy.cc/https://github.com/wavetermdev/waveterm/releases/download/v0.10.4/Wave-win32-x64-0.10.4.msi",
+    "hash": "eff0e2025264a4937ba90ece686b6956d248fca360f6e3ac575528cd482d8560",
     "license": "Apache-2.0",
-    "shortcuts": [["Wave.exe","Wave"]],
-    "extract_dir": ["waveterm"],
+    "shortcuts": [
+        [
+            "Wave.exe",
+            "Wave"
+        ]
+    ],
+    "extract_dir": "waveterm",
     "homepage": "https://github.com/wavetermdev/waveterm",
     "description": "An open-source, cross-platform terminal for seamless workflows",
     "checkver": {
