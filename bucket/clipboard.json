@@ -5,11 +5,11 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/Slackadays/Clipboard/releases/download/0.10.0/clipboard-windows-amd64.zip",
+            "url": "https://github.store/Slackadays/Clipboard/releases/download/0.10.0/clipboard-windows-amd64.zip",
             "hash": ""
         },
         "arm64": {
-            "url": "https://ghproxy.cc/https://github.com/Slackadays/Clipboard/releases/download/0.10.0/clipboard-windows-arm64.zip",
+            "url": "https://github.store/Slackadays/Clipboard/releases/download/0.10.0/clipboard-windows-arm64.zip",
             "hash": ""
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/Slackadays/Clipboard/releases/download/$version/clipboard-windows-amd64.zip"
+                "url": "https://github.store/Slackadays/Clipboard/releases/download/$version/clipboard-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://ghproxy.cc/https://github.com/Slackadays/Clipboard/releases/download/$version/clipboard-windows-arm64.zip"
+                "url": "https://github.store/Slackadays/Clipboard/releases/download/$version/clipboard-windows-arm64.zip"
             }
         }
     }

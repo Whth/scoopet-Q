@@ -1,6 +1,6 @@
 {
     "version": "1.0.7",
-    "url": "https://ghproxy.cc/https://github.com/iTXTech/mcl-installer/releases/download/v1.0.7/mcl-installer-1.0.7-windows-amd64.exe",
+    "url": "https://github.store/iTXTech/mcl-installer/releases/download/v1.0.7/mcl-installer-1.0.7-windows-amd64.exe",
     "hash": "7ded85a85c8beae06f4dd7436419b25207b513c76addc7738b5779be04d0acd9",
     "license": "AGPL-3.0-only",
     "bin": [
@@ -15,7 +15,7 @@
         "github": "https://github.com/iTXTech/mcl-installer"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/iTXTech/mcl-installer/releases/download/v$version/$version-windows-amd64.exe",
+        "url": "https://github.store/iTXTech/mcl-installer/releases/download/v$version/$version-windows-amd64.exe",
         "hash": {
             "url": "$url.sha256"
         }

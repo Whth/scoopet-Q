@@ -1,6 +1,6 @@
 {
     "version": "9.0.56",
-    "url": "https://ghproxy.cc/https://github.com/ProtocolScience/Astral-QSignigngnn/releases/download/9.0.56/unidbg-fetch-qsign-9.0.56.zip",
+    "url": "https://github.store/ProtocolScience/Astral-QSignigngnn/releases/download/9.0.56/unidbg-fetch-qsign-9.0.56.zip",
     "hash": "705d3d52e8a3a177a009725d7e5a4a6d59d12da59f9afdd276821b82c29fb5ae",
     "license": "GPL-3.0-only",
     "bin": [["server_up.bat", "astral-qsign-server"]],
@@ -10,7 +10,7 @@
         "github": "https://github.com/ProtocolScience/Astral-QSignigngnn"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/ProtocolScience/Astral-QSignigngnn/releases/download/$version/unidbg-fetch-qsign-$version.zip",
+        "url": "https://github.store/ProtocolScience/Astral-QSignigngnn/releases/download/$version/unidbg-fetch-qsign-$version.zip",
         "hash": {
             "url": "$url.sha256"
         }

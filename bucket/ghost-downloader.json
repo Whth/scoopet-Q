@@ -1,6 +1,6 @@
 {
     "version": "3.4.6",
-    "url": "https://ghproxy.cc/https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v3.4.6/Ghost-Downloader-v3.4.6-Windows-x86_64.7z",
+    "url": "https://github.store/XiaoYouChR/Ghost-Downloader-3/releases/download/v3.4.6/Ghost-Downloader-v3.4.6-Windows-x86_64.7z",
     "hash": "f50314b5df413a94cc3267c072f104cc8ab27e21bafc64720dcbde14bdff580e",
     "shortcuts": [
         [
@@ -15,7 +15,7 @@
         "github": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v$version/Ghost-Downloader-v$version-Windows-x86_64.7z",
+        "url": "https://github.store/XiaoYouChR/Ghost-Downloader-3/releases/download/v$version/Ghost-Downloader-v$version-Windows-x86_64.7z",
         "hash": {
             "url": "$url.sha256"
         }

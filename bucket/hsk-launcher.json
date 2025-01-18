@@ -1,6 +1,6 @@
 {
     "version": "4.2.0",
-    "url": "https://ghproxy.cc/https://github.com/HardcoreSK/HSK-Launcher/archive/refs/tags/4.2.0.zip",
+    "url": "https://github.store/HardcoreSK/HSK-Launcher/archive/refs/tags/4.2.0.zip",
     "hash": "dbc03d8f79949d2141bd1916a5848f212b69454126fac60d379fc4c09ca3463c",
     "license": "GPL-3.0-only",
     "shortcuts": [
@@ -13,7 +13,7 @@
         "github": "https://github.com/HardcoreSK/HSK-Launcher"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/HardcoreSK/HSK-Launcher/archive/refs/tags/$version.zip",
+        "url": "https://github.store/HardcoreSK/HSK-Launcher/archive/refs/tags/$version.zip",
         "hash": {
             "url": "$url.sha256"
         },

@@ -1,6 +1,6 @@
 {
     "version": "0.5.12",
-    "url": "https://ghproxy.cc/https://github.com/Ai00-X/ai00_server/releases/download/v0.5.12/ai00_server-v0.5.12-x86_64-pc-windows-msvc.zip",
+    "url": "https://github.store/Ai00-X/ai00_server/releases/download/v0.5.12/ai00_server-v0.5.12-x86_64-pc-windows-msvc.zip",
     "hash": "a31ef1c852c0f636b40a5b0149de783387c21a3e04cad536bfee9672c6d0ace5",
     "license": "MIT",
     "bin": [
@@ -15,7 +15,7 @@
     },
     "persist": "assets\\configs",
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/Ai00-X/ai00_server/releases/download/v$version/ai00_server-v$version-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.store/Ai00-X/ai00_server/releases/download/v$version/ai00_server-v$version-x86_64-pc-windows-msvc.zip",
         "hash": {
             "url": "$url.sha256"
         }
