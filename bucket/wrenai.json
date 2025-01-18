@@ -1,0 +1,26 @@
+{
+    "version": "0.14.0",
+    "url": "https://github.store/Canner/WrenAI/releases/download/0.14.0/wren-launcher-windows.zip",
+    "hash": "",
+    "license": "GPL-3.0-only",
+    "bin": "wren-launcher-windows.exe",
+    "homepage": "https://github.com/Canner/WrenAI",
+    "description": "🤖 Open-source AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. 📈📊📋🧑‍💻",
+    "checkver": {
+        "github": "https://github.com/Canner/WrenAI"
+    },
+    "autoupdate": {
+        "url": "https://github.store/Canner/WrenAI/releases/download/$version/wren-launcher-windows.zip",
+        "hash": {
+            "url": "$url.sha256"
+        },
+        "notes": [
+            "Other available assets:",
+            "https://github.store/Canner/WrenAI/archive/refs/tags/$version.zip"
+        ]
+    },
+    "notes": [
+        "Other available assets:",
+        "https://github.store/Canner/WrenAI/archive/refs/tags/0.14.0.zip"
+    ]
+}
