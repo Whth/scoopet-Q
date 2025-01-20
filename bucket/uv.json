@@ -27,7 +27,7 @@
         "UV_PYTHON_INSTALL_DIR": "$dir/python"
     },
     "env_add_path": [
-        "$dir/bin"
+        "bin"
     ],
     "persist": [
         "python",
