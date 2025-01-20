@@ -20,6 +20,19 @@
     "checkver": {
         "github": "https://github.com/astral-sh/uv"
     },
+    "env_set": {
+        "UV_DEFAULT_INDEX": "https://mirrors.bfsu.edu.cn/pypi/web/simple",
+        "UV_TOOL_BIN_DIR": "$dir/bin",
+        "UV_PYTHON_INSTALL_MIRROR": "https://github.store/indygreg/python-build-standalone/releases/download",
+        "UV_PYTHON_INSTALL_DIR": "$dir/python"
+    },
+    "env_add_path": [
+        "$dir/bin"
+    ],
+    "persist": [
+        "python",
+        "bin"
+    ],
     "autoupdate": {
         "architecture": {
             "64bit": {
