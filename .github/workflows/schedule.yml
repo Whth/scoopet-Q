@@ -15,5 +15,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
           SKIP_UPDATED: "0"
-          THROW_ERROR: "1"
-          SPECIAL_SNOWFLAKES: "1"
+          THROW_ERROR: "0"
