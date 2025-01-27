@@ -1,7 +1,7 @@
 {
-    "version": "3.80.4",
-    "url": "https://ghproxy.cc/https://github.com/purocean/yn/releases/download/v3.80.4/Yank-Note-win-x64-3.80.4.zip",
-    "hash": "2a62a28e6b8637f45df893f59a2da56806be0fdedced39384f265344c17c6fa2",
+    "version": "3.81.2",
+    "url": "https://ghproxy.cc/https://github.com/purocean/yn/releases/download/v3.81.2/Yank-Note-win-x64-3.81.2.zip",
+    "hash": "371fba61272ceb2f47c79ae6b93771b0d7d613c8a9cde5ce9bf1317aab123e1c",
     "license": "AGPL-3.0-only",
     "shortcuts": [
         [
@@ -28,7 +28,7 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/purocean/yn/releases/download/v3.80.4/Yank-Note-win-x64-3.80.4.exe",
-        "https://ghproxy.cc/https://github.com/purocean/yn/archive/refs/tags/v3.80.4.zip"
+        "https://ghproxy.cc/https://github.com/purocean/yn/releases/download/v3.81.2/Yank-Note-win-x64-3.81.2.exe",
+        "https://ghproxy.cc/https://github.com/purocean/yn/archive/refs/tags/v3.81.2.zip"
     ]
 }
