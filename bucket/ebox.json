@@ -1,12 +1,12 @@
 {
-    "version": "0.1.8",
-    "url": "https://github.store/Whth/ebox/releases/download/v0.1.8/ebox_v0.1.8.zip",
-    "hash": "ef44800274e2a090e9e22b888f6579ed16700d13deca5c9a9f6b153363c4d696",
+    "version": "0.1.10",
+    "url": "https://github.store/Whth/ebox/releases/download/v0.1.10/ebox_v0.1.10.zip",
+    "hash": "c6edc50f2f5232db889f2875271ca4c5d5154d9ca9a35bdb363c2dc484a945d4",
     "license": "GPL-3.0-only",
     "extract_dir": "dist",
     "env_add_path": ".",
     "homepage": "https://github.com/Whth/ebox",
-    "description": "A bunch of toys",
+    "description": "",
     "checkver": {
         "github": "https://github.com/Whth/ebox"
     },
@@ -22,6 +22,6 @@
     },
     "notes": [
         "Other available assets:",
-        "https://github.store/Whth/ebox/archive/refs/tags/v0.1.8.zip"
+        "https://github.store/Whth/ebox/archive/refs/tags/v0.1.10.zip"
     ]
 }
