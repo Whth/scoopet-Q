@@ -1,6 +1,6 @@
 {
     "version": "3.80.4",
-    "url": "https://github.store/purocean/yn/releases/download/v3.80.4/Yank-Note-win-x64-3.80.4.zip",
+    "url": "https://ghproxy.cc/https://github.com/purocean/yn/releases/download/v3.80.4/Yank-Note-win-x64-3.80.4.zip",
     "hash": "2a62a28e6b8637f45df893f59a2da56806be0fdedced39384f265344c17c6fa2",
     "license": "AGPL-3.0-only",
     "shortcuts": [
@@ -16,19 +16,19 @@
         "github": "https://github.com/purocean/yn"
     },
     "autoupdate": {
-        "url": "https://github.store/purocean/yn/releases/download/v$version/Yank-Note-win-x64-$version.zip",
+        "url": "https://ghproxy.cc/https://github.com/purocean/yn/releases/download/v$version/Yank-Note-win-x64-$version.zip",
         "hash": {
             "url": "$url.sha256"
         },
         "notes": [
             "Other available assets:",
-            "https://github.store/purocean/yn/releases/download/v$version/Yank-Note-win-x64-$version.exe",
-            "https://github.store/purocean/yn/archive/refs/tags/v$version.zip"
+            "https://ghproxy.cc/https://github.com/purocean/yn/releases/download/v$version/Yank-Note-win-x64-$version.exe",
+            "https://ghproxy.cc/https://github.com/purocean/yn/archive/refs/tags/v$version.zip"
         ]
     },
     "notes": [
         "Other available assets:",
-        "https://github.store/purocean/yn/releases/download/v3.80.4/Yank-Note-win-x64-3.80.4.exe",
-        "https://github.store/purocean/yn/archive/refs/tags/v3.80.4.zip"
+        "https://ghproxy.cc/https://github.com/purocean/yn/releases/download/v3.80.4/Yank-Note-win-x64-3.80.4.exe",
+        "https://ghproxy.cc/https://github.com/purocean/yn/archive/refs/tags/v3.80.4.zip"
     ]
 }

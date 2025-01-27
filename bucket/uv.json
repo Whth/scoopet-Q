@@ -5,11 +5,11 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.store/astral-sh/uv/releases/download/0.5.21/uv-x86_64-pc-windows-msvc.zip",
+            "url": "https://ghproxy.cc/https://github.com/astral-sh/uv/releases/download/0.5.21/uv-x86_64-pc-windows-msvc.zip",
             "hash": "9968e8ef4b567d5690ccb9ac6e8338eb56cb964c57430a2843dd21f88ec5b81a"
         },
         "32bit": {
-            "url": "https://github.store/astral-sh/uv/releases/download/0.5.21/uv-i686-pc-windows-msvc.zip",
+            "url": "https://ghproxy.cc/https://github.com/astral-sh/uv/releases/download/0.5.21/uv-i686-pc-windows-msvc.zip",
             "hash": "a0583cd71a410ce8329cd0951a72966a1219c1a7c12c437c3072779ce7dfe893"
         }
     },
@@ -24,7 +24,7 @@
         "UV_INDEX": "https://mirrors.bfsu.edu.cn/pypi/web/simple https://mirrors.aliyun.com/pypi/simple/ https://mirrors.huaweicloud.com/repository/pypi/simple https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple",
         "UV_DEFAULT_INDEX": "https://mirrors.bfsu.edu.cn/pypi/web/simple",
         "UV_TOOL_BIN_DIR": "$dir/bin",
-        "UV_PYTHON_INSTALL_MIRROR": "https://github.store/indygreg/python-build-standalone/releases/download",
+        "UV_PYTHON_INSTALL_MIRROR": "https://ghproxy.cc/https://github.com/indygreg/python-build-standalone/releases/download",
         "UV_PYTHON_INSTALL_DIR": "$dir/python"
     },
     "env_add_path": [
@@ -37,10 +37,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.store/astral-sh/uv/releases/download/$version/uv-x86_64-pc-windows-msvc.zip"
+                "url": "https://ghproxy.cc/https://github.com/astral-sh/uv/releases/download/$version/uv-x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://github.store/astral-sh/uv/releases/download/$version/uv-i686-pc-windows-msvc.zip"
+                "url": "https://ghproxy.cc/https://github.com/astral-sh/uv/releases/download/$version/uv-i686-pc-windows-msvc.zip"
             }
         },
         "hash": {

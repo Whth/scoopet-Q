@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.store/docmirror/dev-sidecar/releases/download/v2.0.0-RC1/DevSidecar-2.0.0-RC1-windows-x64.exe#/dl.7z",
+            "url": "https://ghproxy.cc/https://github.com/docmirror/dev-sidecar/releases/download/v2.0.0-RC1/DevSidecar-2.0.0-RC1-windows-x64.exe#/dl.7z",
             "hash": "614115a350c85453e5cdb858ce6e6f08dba469bbfb181074759bdeea3b6dfc37",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.store/docmirror/dev-sidecar/releases/download/v$version/DevSidecar-$version-windows-x64.exe#/dl.7z"
+                "url": "https://ghproxy.cc/https://github.com/docmirror/dev-sidecar/releases/download/v$version/DevSidecar-$version-windows-x64.exe#/dl.7z"
             }
         },
         "hash": {

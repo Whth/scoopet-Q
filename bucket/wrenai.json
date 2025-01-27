@@ -1,6 +1,6 @@
 {
     "version": "0.14.0",
-    "url": "https://github.store/Canner/WrenAI/releases/download/0.14.0/wren-launcher-windows.zip",
+    "url": "https://ghproxy.cc/https://github.com/Canner/WrenAI/releases/download/0.14.0/wren-launcher-windows.zip",
     "hash": "47e9e3381a1ef6b29195659dc7b93a77a332bc5bf451938c1a597051d5c79d95",
     "license": "AGPL-3.0-only",
     "bin": "wren-launcher-windows.exe",
@@ -10,17 +10,17 @@
         "github": "https://github.com/Canner/WrenAI"
     },
     "autoupdate": {
-        "url": "https://github.store/Canner/WrenAI/releases/download/$version/wren-launcher-windows.zip",
+        "url": "https://ghproxy.cc/https://github.com/Canner/WrenAI/releases/download/$version/wren-launcher-windows.zip",
         "hash": {
             "url": "$url.sha256"
         },
         "notes": [
             "Other available assets:",
-            "https://github.store/Canner/WrenAI/archive/refs/tags/$version.zip"
+            "https://ghproxy.cc/https://github.com/Canner/WrenAI/archive/refs/tags/$version.zip"
         ]
     },
     "notes": [
         "Other available assets:",
-        "https://github.store/Canner/WrenAI/archive/refs/tags/0.14.0.zip"
+        "https://ghproxy.cc/https://github.com/Canner/WrenAI/archive/refs/tags/0.14.0.zip"
     ]
 }
