@@ -19,7 +19,9 @@
             "Dev Sidecar"
         ]
     ],
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/docmirror/dev-sidecar"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
