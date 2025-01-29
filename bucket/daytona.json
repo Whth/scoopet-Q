@@ -1,0 +1,22 @@
+{
+    "version": "0.52.0",
+    "description": "The Open Source Dev Environment Manager.",
+    "homepage": "https://daytona.io/",
+    "license": "Apache-2.0",
+    "url": "https://download.daytona.io/daytona/v0.52.0/daytona-windows-amd64.exe",
+    "hash": "ba64897bf8b2436e60e01f059606e55e03f679473e90558222e57040a3a299bd" ,
+    "bin": [["daytona-windows-amd64.exe",  "daytona"]],
+    "checkver": {
+        "github": "https://github.com/daytonaio/daytona"
+    },
+    "autoupdate": {
+                "url": "https://download.daytona.io/daytona/v$version/daytona-windows-amd64.exe",
+                "hash": {
+                    "url": "$url.sha256"
+                }
+    },
+    "suggest": [
+        "docker",
+        "docker-desktop"
+    ]
+}
