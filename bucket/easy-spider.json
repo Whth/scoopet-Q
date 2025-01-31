@@ -24,7 +24,8 @@
                     "--headless 0",
                     "--read_type local",
                     "--config_file_name config.json",
-                    "--saved_file_name",
+                    "--saved_file_name config.json",
+                    "--user_folder $dir/user_data",
                     "--ids"
                 ],
 
@@ -37,7 +38,8 @@
                     "--headless 0",
                     "--read_type local",
                     "--config_file_name config.json",
-                    "--saved_file_name",
+                    "--saved_file_name config.json",
+                    "--user_folder $dir/user_data",
                     "--ids"
                 ],
                 [
