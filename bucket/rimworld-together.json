@@ -1,6 +1,6 @@
 {
     "version": "25.1.2.1",
-    "url": "https://ghproxy.cc/https://github.com/Byte-Nova/Rimworld-Together/releases/download/25.1.2.1/win-x64.zip",
+    "url": "https://gh.h233.eu.org/https://github.com/Byte-Nova/Rimworld-Together/releases/download/25.1.2.1/win-x64.zip",
     "hash": "892b6c411e74453e34dbd52d5dba58b0510fa95899eb81d23c1d1fb2a57917ca",
     "bin": [
         [
@@ -17,7 +17,7 @@
         "github": "https://github.com/Byte-Nova/Rimworld-Together"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/Byte-Nova/Rimworld-Together/releases/download/$version/win-x64.zip",
+        "url": "https://gh.h233.eu.org/https://github.com/Byte-Nova/Rimworld-Together/releases/download/$version/win-x64.zip",
         "hash": {
             "url": "$url.sha256"
         }

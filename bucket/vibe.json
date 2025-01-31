@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/thewh1teagle/vibe/releases/download/v3.0.2/vibe_${version}_x64-setup.exe#/dl.7z",
+            "url": "https://gh.h233.eu.org/https://github.com/thewh1teagle/vibe/releases/download/v3.0.2/vibe_${version}_x64-setup.exe#/dl.7z",
             "hash": "9264be959417c58de6a85f3d22b5b39e696efbce034b9a4e6778c204a0cce4d9",
             "installer": {
                 "script": "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Unins*\" -Force -Recurse"
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/thewh1teagle/vibe/releases/download/v$version/vibe_${version}_x64-setup.exe#/dl.7z"
+                "url": "https://gh.h233.eu.org/https://github.com/thewh1teagle/vibe/releases/download/v$version/vibe_${version}_x64-setup.exe#/dl.7z"
             }
         }
     }

@@ -1,6 +1,6 @@
 {
     "version": "0.7.3",
-    "url": "https://ghproxy.cc/https://github.com/NaturalWhiteX/vambox-release/releases/download/0.7.3/vambox-v0.7.3.7z",
+    "url": "https://gh.h233.eu.org/https://github.com/NaturalWhiteX/vambox-release/releases/download/0.7.3/vambox-v0.7.3.7z",
     "hash": "abe3d6ff42aa86ce628b85b60b7beef7287a538dc5515bc4d704de2ace1d3c8b",
     "license": "GPL-3.0-only",
     "shortcuts": [["vambox.exe", "VaM Box"]],
@@ -11,17 +11,17 @@
         "github": "https://github.com/NaturalWhiteX/vambox-release"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/NaturalWhiteX/vambox-release/releases/download/$version/vambox-v$version.7z",
+        "url": "https://gh.h233.eu.org/https://github.com/NaturalWhiteX/vambox-release/releases/download/$version/vambox-v$version.7z",
         "hash": {
             "url": "$url.sha256"
         },
         "notes": [
             "Other available assets:",
-            "https://ghproxy.cc/https://github.com/NaturalWhiteX/vambox-release/archive/refs/tags/$version.zip"
+            "https://gh.h233.eu.org/https://github.com/NaturalWhiteX/vambox-release/archive/refs/tags/$version.zip"
         ]
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/NaturalWhiteX/vambox-release/archive/refs/tags/0.7.3.zip"
+        "https://gh.h233.eu.org/https://github.com/NaturalWhiteX/vambox-release/archive/refs/tags/0.7.3.zip"
     ]
 }
