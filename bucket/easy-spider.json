@@ -67,8 +67,8 @@
                     "--headless 0",
                     "--read_type local",
                     "--config_file_name config.json",
-                    "--saved_file_name",
-                    "--user-folder $dir/user_data",
+                    "--saved_file_name config.json",
+                    "--user_folder $dir/user_data",
                     "--ids"
                 ],
 
@@ -81,8 +81,8 @@
                     "--headless 0",
                     "--read_type local",
                     "--config_file_name config.json",
-                    "--saved_file_name",
-                    "--user-folder $dir/user_data",
+                    "--saved_file_name config.json",
+                    "--user_folder $dir/user_data",
                     "--ids"
                 ],
                 [
@@ -139,6 +139,8 @@
         "user_data",
         "Data",
         "tasks",
-        "execution_instances"
+        "execution_instances",
+        "EasySpider\\resources\\app\\config.json",
+        "EasySpider\\resources\\app\\mysql_config.json"
     ]
 }
