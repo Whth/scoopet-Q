@@ -1,12 +1,12 @@
 {
-    "version": "2.0.0-RC1",
+    "version": "1.8.9",
     "description": "  开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速 .",
     "homepage": "https://github.com/docmirror/dev-sidecar",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/docmirror/dev-sidecar/releases/download/v2.0.0-RC1/DevSidecar-2.0.0-RC1-windows-x64.exe#/dl.7z",
-            "hash": "614115a350c85453e5cdb858ce6e6f08dba469bbfb181074759bdeea3b6dfc37",
+            "url": "https://ghproxy.cc/https://github.com/docmirror/dev-sidecar/releases/download/v1.8.9/DevSidecar-1.8.9-windows-x64.exe#/dl.7z",
+            "hash": "b532d83149d965477d4aff953f64dbd5c373387409170267c3851d9ccc10ed84",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Force -Recurse"
