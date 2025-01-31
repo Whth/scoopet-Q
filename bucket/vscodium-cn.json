@@ -1,5 +1,5 @@
 {
-    "version": "1.83.1.23285",
+    "version": "1.96.4.25026",
     "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
     "homepage": "https://github.com/VSCodium/vscodium",
     "license": "MIT",
@@ -9,16 +9,16 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/VSCodium/vscodium/releases/download/1.83.1.23285/VSCodium-win32-x64-1.83.1.23285.zip",
-            "hash": "c2fe9978ca162f89925c57f69b283656603d79e657f46445653ca9dd4004191f"
+            "url": "https://ghproxy.cc/https://github.com/VSCodium/vscodium/releases/download/1.96.4.25026/VSCodium-win32-x64-1.96.4.25026.zip",
+            "hash": "6d02bad87dc2077389899ac1d8315a4a63dba9e5637aa3304b7626ad9f2338f0"
         },
         "32bit": {
-            "url": "https://ghproxy.cc/https://github.com/VSCodium/vscodium/releases/download/1.83.1.23285/VSCodium-win32-ia32-1.83.1.23285.zip",
-            "hash": "124633de279acbb18b0dbb826feab124b239ba774e2ea003ab1ddd41dfbebb9d"
+            "url": "https://ghproxy.cc/https://github.com/VSCodium/vscodium/releases/download/1.96.4.25026/VSCodium-win32-ia32-1.96.4.25026.zip",
+            "hash": "8c8e671e0c2218814d77f6cb585ff63d16c29dd3f02b490c270d2f650cb24c21"
         },
         "arm64": {
-            "url": "https://ghproxy.cc/https://github.com/VSCodium/vscodium/releases/download/1.83.1.23285/VSCodium-win32-arm64-1.83.1.23285.zip",
-            "hash": "714ad131d8988bce6234aee642810ed184fd7eda22d9491fe916c7b80b55812e"
+            "url": "https://ghproxy.cc/https://github.com/VSCodium/vscodium/releases/download/1.96.4.25026/VSCodium-win32-arm64-1.96.4.25026.zip",
+            "hash": "22362fab26afc31271679f9826675de3e49b47c0b2a2aae22ec763483de66003"
         }
     },
     "env_add_path": "bin",
