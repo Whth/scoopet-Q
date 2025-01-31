@@ -143,6 +143,7 @@
         "tasks",
         "execution_instances",
         "EasySpider\\resources\\app\\config.json",
-        "EasySpider\\resources\\app\\mysql_config.json"
+        "EasySpider\\resources\\app\\mysql_config.json",
+        "config.json"
     ]
 }
