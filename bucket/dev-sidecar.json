@@ -20,7 +20,8 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/docmirror/dev-sidecar"
+        "github": "https://github.com/docmirror/dev-sidecar",
+        "regex": "((?:\\d+\\.){2}\\d+(?:-RC\\.\\d+)?)"
     },
     "autoupdate": {
         "architecture": {

@@ -21,8 +21,7 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/luckjiawei/frpc-desktop",
-        "regex": "\/releases\/tag\/(?:v)?([\d.]+)\.RELEASE"
+        "github": "https://github.com/luckjiawei/frpc-desktop"
 
     },
     "autoupdate": {
