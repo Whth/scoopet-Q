@@ -9,20 +9,16 @@
             "hash": "9264be959417c58de6a85f3d22b5b39e696efbce034b9a4e6778c204a0cce4d9",
             "installer": {
                 "script": "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Unins*\" -Force -Recurse"
-            },
-            "bin": [
-                [
-                    "vibe.exe"
-                ]
-            ],
-            "shortcuts": [
-                [
-                    "vibe.exe",
-                    "vibe"
-                ]
-            ]
+            }
+
         }
     },
+    "shortcuts": [
+        [
+            "vibe.exe",
+            "vibe"
+        ]
+    ],
     "checkver": {
         "github": "https://github.com/thewh1teagle/vibe"
     },
