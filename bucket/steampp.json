@@ -13,7 +13,8 @@
     "homepage": "https://github.com/BeyondDimension/SteamTools",
     "description": "🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。",
     "checkver": {
-        "github": "https://github.com/BeyondDimension/SteamTools"
+        "github": "https://github.com/BeyondDimension/SteamTools",
+        "regex": "\/releases\/tag\/(?:v)?([\d.]+)\.RELEASE"
     },
     "autoupdate": {
         "url": "https://ghproxy.cc/https://github.com/BeyondDimension/SteamTools/releases/download/$version/Steam%2B%2B_v$version_win_x64.7z",
