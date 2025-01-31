@@ -1,0 +1,21 @@
+{
+    "version": "8.4.0",
+    "description": "Display real-time trends of Chinese funds in the menubar",
+    "homepage": "https://falemon.com",
+    "license": "Unknown",
+    "url": "https://ekow1.art/uploads/files/manual/FalemonSetup-1.10.1029.exe",
+    "hash": "88761843cd49cc9ecc70409046975bb80e9c22df75592096510168dc2a04060d",
+    "innosetup": true,
+    "shortcuts": [
+        [
+            "Falemon.exe",
+            "Falemon"
+        ]
+    ],
+    "post_install": ["touch $dir\\bin\\ch_config.yaml",
+                    "touch $dir\\bin\\cache.db"],
+    "persist": [
+        "bin\\cache.db",
+        "bin\\ch_config.yaml"
+    ]
+}
