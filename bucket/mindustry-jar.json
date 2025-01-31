@@ -14,7 +14,7 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/Whth/gpt_academic_l"
+        "github": "https://github.com/Anuken/Mindustry"
     },
     "autoupdate": {
         "url": "https://ghproxy.cc/https://github.com/Anuken/Mindustry/releases/download/v$version/Mindustry.jar",
