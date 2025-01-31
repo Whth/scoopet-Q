@@ -25,7 +25,7 @@
                     "--read_type local",
                     "--config_file_name config.json",
                     "--saved_file_name config.json",
-                    "--user_folder $dir/user_data",
+                    "--user_folder $dir\\user_data",
                     "--ids"
                 ],
 
@@ -39,7 +39,7 @@
                     "--read_type local",
                     "--config_file_name config.json",
                     "--saved_file_name config.json",
-                    "--user_folder $dir/user_data",
+                    "--user_folder $dir\\user_data",
                     "--ids"
                 ],
                 [
@@ -70,7 +70,7 @@
                     "--read_type local",
                     "--config_file_name config.json",
                     "--saved_file_name config.json",
-                    "--user_folder $dir/user_data",
+                    "--user_folder $dir\\user_data",
                     "--ids"
                 ],
 
@@ -84,7 +84,7 @@
                     "--read_type local",
                     "--config_file_name config.json",
                     "--saved_file_name config.json",
-                    "--user_folder $dir/user_data",
+                    "--user_folder $dir\\user_data",
                     "--ids"
                 ],
                 [
