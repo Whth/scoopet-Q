@@ -1,6 +1,6 @@
 {
     "version": "1.0.1.0",
-    "url": "https://gh.h233.eu.org/https://github.com/feelfar/varManager/releases/download/MMDLoader_v1.0.1.0/varManager_v1.0.4.8_MMDLoader_v1.0.1.0.zip",
+    "url": "https://ghproxy.cc/https://github.com/feelfar/varManager/releases/download/MMDLoader_v1.0.1.0/varManager_v1.0.4.8_MMDLoader_v1.0.1.0.zip",
     "hash": "c06e609a3af0e3d7562a17af5708e6431015727ba9d8a185dbbd732d7c2c9ed0",
     "license": "GPL-3.0-only",
     "shortcuts": [
@@ -14,7 +14,7 @@
         "github": "https://github.com/feelfar/varManager"
     },
     "autoupdate": {
-        "url": "https://gh.h233.eu.org/https://github.com/feelfar/varManager/releases/download/$version/varManager_v1.0.4.8_MMDLoader_v$version.zip",
+        "url": "https://ghproxy.cc/https://github.com/feelfar/varManager/releases/download/$version/varManager_v1.0.4.8_MMDLoader_v$version.zip",
         "hash": {
             "url": "$url.sha256"
         }

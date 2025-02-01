@@ -1,6 +1,6 @@
 {
     "version": "1.0.11",
-    "url": "https://gh.h233.eu.org/https://github.com/RimSort/RimSort/releases/download/v1.0.11/RimSort-v1.0.11-Windows_x86_64.zip",
+    "url": "https://ghproxy.cc/https://github.com/RimSort/RimSort/releases/download/v1.0.11/RimSort-v1.0.11-Windows_x86_64.zip",
     "hash": "bc4e5664683fe317ff8dbe28b28b1d1f5147d4442f0761e90e6d79d92969c911",
     "license": "GPL-3.0-only",
     "shortcuts": [["RimSort.exe", "RimSort"]],
@@ -11,18 +11,18 @@
         "github": "https://github.com/RimSort/RimSort"
     },
     "autoupdate": {
-        "url": "https://gh.h233.eu.org/https://github.com/RimSort/RimSort/releases/download/v$version/RimSort-v$version-Windows_x86_64.zip",
+        "url": "https://ghproxy.cc/https://github.com/RimSort/RimSort/releases/download/v$version/RimSort-v$version-Windows_x86_64.zip",
         "hash": {
             "url": "$url.sha256"
         },
         "notes": [
             "Other available assets:",
-            "https://gh.h233.eu.org/https://github.com/RimSort/RimSort/archive/refs/tags/v$version.zip"
+            "https://ghproxy.cc/https://github.com/RimSort/RimSort/archive/refs/tags/v$version.zip"
         ]
     },
     "notes": [
         "Other available assets:",
-        "https://gh.h233.eu.org/https://github.com/RimSort/RimSort/archive/refs/tags/v1.0.11.zip"
+        "https://ghproxy.cc/https://github.com/RimSort/RimSort/archive/refs/tags/v1.0.11.zip"
     ],
     "persist": "User Files"
 }

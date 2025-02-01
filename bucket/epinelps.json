@@ -1,6 +1,6 @@
 {
     "version": "0.1.4.1",
-    "url": "https://gh.h233.eu.org/https://github.com/EpinelPS/EpinelPS/releases/download/v0.1.4.1/ServerAndServerSelector_v0.1.4.1.zip",
+    "url": "https://ghproxy.cc/https://github.com/EpinelPS/EpinelPS/releases/download/v0.1.4.1/ServerAndServerSelector_v0.1.4.1.zip",
     "hash": "877e9359eb64232a8fc2c7fc9327f2a97c32c5f07898b1cee0a0492249897346",
     "license": "AGPL-3.0-only",
     "bin": [["EpinelPS.exe","elps"],
@@ -22,7 +22,7 @@
         "github": "https://github.com/EpinelPS/EpinelPS"
     },
     "autoupdate": {
-        "url": "https://gh.h233.eu.org/https://github.com/EpinelPS/EpinelPS/releases/download/$version/ServerAndServerSelector_v$version.zip",
+        "url": "https://ghproxy.cc/https://github.com/EpinelPS/EpinelPS/releases/download/$version/ServerAndServerSelector_v$version.zip",
         "hash": {
             "url": "$url.sha256"
         }
