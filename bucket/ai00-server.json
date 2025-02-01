@@ -1,7 +1,7 @@
 {
-    "version": "0.5.12",
-    "url": "https://ghproxy.cc/https://github.com/Ai00-X/ai00_server/releases/download/v0.5.12/ai00_server-v0.5.12-x86_64-pc-windows-msvc.zip",
-    "hash": "a31ef1c852c0f636b40a5b0149de783387c21a3e04cad536bfee9672c6d0ace5",
+    "version": "0.5.13",
+    "url": "https://ghproxy.cc/https://github.com/Ai00-X/ai00_server/releases/download/v0.5.13/ai00_server-v0.5.13-x86_64-pc-windows-msvc.zip",
+    "hash": "01a3ba2eb0c91d084c7e837e8e6ce12593199188edd775364c89f7c7fbc6b3c2",
     "license": "MIT",
     "bin": [
         "ai00-server.exe",
