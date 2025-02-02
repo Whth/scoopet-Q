@@ -1,12 +1,15 @@
 {
-    "version": "4.2.0",
-    "url": "https://ghproxy.cc/https://github.com/HardcoreSK/HSK-Launcher/archive/refs/tags/4.2.0.zip",
-    "hash": "dbc03d8f79949d2141bd1916a5848f212b69454126fac60d379fc4c09ca3463c",
+    "version": "4.3.0",
+    "url": "https://ghproxy.cc/https://github.com/HardcoreSK/HSK-Launcher/archive/refs/tags/4.3.0.zip",
+    "hash": "7eb34804392b7b0d797c37cec7aec955598dc429029b048bbaf2888871425e48",
     "license": "GPL-3.0-only",
     "shortcuts": [
-        ["HSKLauncher.exe", "HSK Launcher"]
+        [
+            "HSKLauncher.exe",
+            "HSK Launcher"
+        ]
     ],
-    "extract_dir": "HSK-Launcher-4.2.0",
+    "extract_dir": "HSK-Launcher-4.3.0",
     "homepage": "https://github.com/HardcoreSK/HSK-Launcher",
     "description": "Launcher for HardcoreSK modpack.",
     "checkver": {
@@ -19,6 +22,9 @@
         },
         "extract_dir": "HSK-Launcher-$version"
     },
-    "pre_install": ["touch $dir\\config.xml"],
-    "persist": ["data","config.xml"]
+    "pre_install": "touch $dir\\config.xml",
+    "persist": [
+        "data",
+        "config.xml"
+    ]
 }
