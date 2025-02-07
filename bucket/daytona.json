@@ -1,10 +1,10 @@
 {
-    "version": "0.52.1",
+    "version": "0.53.0",
     "description": "The Open Source Dev Environment Manager.",
     "homepage": "https://daytona.io/",
     "license": "Apache-2.0",
-    "url": "https://download.daytona.io/daytona/v0.52.1/daytona-windows-amd64.exe",
-    "hash": "4c71f3a82d3f5d4487dba582564c580d1074e61d7a66c466e855c38d14501ca7",
+    "url": "https://download.daytona.io/daytona/v0.53.0/daytona-windows-amd64.exe",
+    "hash": "35e525aeb75f68142e0c197cdb655d716241887410d1d23a4ca292ca3ea0482f",
     "bin": [
         [
             "daytona-windows-amd64.exe",
