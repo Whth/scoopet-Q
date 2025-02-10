@@ -1,9 +1,14 @@
 {
-    "version": "0.9.6",
-    "url": "https://ghproxy.cc/https://github.com/ajeetdsouza/zoxide/releases/download/v0.9.6/zoxide-0.9.6-x86_64-pc-windows-msvc.zip",
-    "hash": "49cf729c1788570ce9c76e59f3aa77668ef1302444fdd16aeeb5748d2890f4ec",
+    "version": "0.9.7",
+    "url": "https://ghproxy.cc/https://github.com/ajeetdsouza/zoxide/releases/download/v0.9.7/zoxide-0.9.7-x86_64-pc-windows-msvc.zip",
+    "hash": "d2f7640e977170d58c3f7057a9ecbfe6597de1a3dbbd992fb2fea1255e6098e4",
     "license": "GPL-3.0-only",
-    "bin": [["zoxide.exe", "zoxide"]],
+    "bin": [
+        [
+            "zoxide.exe",
+            "zoxide"
+        ]
+    ],
     "extract_dir": "",
     "homepage": "https://github.com/ajeetdsouza/zoxide",
     "description": "A smarter cd command. Supports all major shells.",
@@ -22,7 +27,7 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/ajeetdsouza/zoxide/archive/refs/tags/v0.9.6.zip"
+        "https://ghproxy.cc/https://github.com/ajeetdsouza/zoxide/archive/refs/tags/v0.9.7.zip"
     ],
     "post_install": [
         "$lineToAdd = 'Invoke-Expression (& { (zoxide init powershell | Out-String) })'",
