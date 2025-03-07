@@ -1,13 +1,13 @@
 {
-    "version": "1.1.6",
+    "version": "1.2.0",
     "description": "frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本",
     "homepage": "https://jwinks.com/p/frp/",
     "license": "MIT",
     "notes": "https://github.com/ViCrack/scoop-bucket/blob/master/bucket/frpc-desktop.json",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/luckjiawei/frpc-desktop/releases/download/v1.1.6/Frpc-Desktop.1.1.6.exe#/dl.7z",
-            "hash": "51731186357c1664f87eb32cf17590614495826ca31e107ffee1f40345e72f98",
+            "url": "https://ghproxy.cc/https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.0/Frpc-Desktop.1.2.0.exe#/dl.7z",
+            "hash": "f07d0cfa663f3b8a1a1078776e25004a63600ffca5f78aa6d9f94c6184f2e575",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Force -Recurse"
@@ -22,7 +22,6 @@
     ],
     "checkver": {
         "github": "https://github.com/luckjiawei/frpc-desktop"
-
     },
     "autoupdate": {
         "architecture": {
