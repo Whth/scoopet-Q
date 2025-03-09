@@ -1,7 +1,7 @@
 {
-    "version": "1.9.0",
-    "url": "https://ghproxy.cc/https://github.com/josStorer/RWKV-Runner/releases/download/v1.9.0/RWKV-Runner_windows_x64.exe",
-    "hash": "d13f6df5cf378f2d7ba0fc8179c4d9b79491770f4e7c54e7b6b96894ccfe5360",
+    "version": "1.9.1",
+    "url": "https://ghproxy.cc/https://github.com/josStorer/RWKV-Runner/releases/download/v1.9.1/RWKV-Runner_windows_x64.exe",
+    "hash": "5eeff3bb1b7596e6c9a6aa839d20c4e1b2c60def3c4ccc5e1e2e1cac1e36a1cc",
     "license": "GPL-3.0-only",
     "shortcuts": [
         [
@@ -20,7 +20,7 @@
             "url": "$url.sha256"
         }
     },
-    "pre_install": ["touch $dir\\config.json"],
+    "pre_install": "touch $dir\\config.json",
     "persist": [
         "models",
         "state-models",
@@ -28,5 +28,4 @@
         "midi",
         "config.json"
     ]
-
 }
