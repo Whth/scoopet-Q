@@ -1,5 +1,5 @@
 {
-    "version": "0.40.4",
+    "version": "0.45.14",
     "description": "AI Code Editor",
     "homepage": "https://www.cursor.so",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.cursor.so/"
     },
     "url": "https://downloader.cursor.sh/windows/nsis/x64#/dl.7z",
-    "hash": "081d0d28fb3904e85a2c324940c2f4110b60a32cc9dc4f0b03aecc089a169a26",
+    "hash": "5888ef88d50cb5a8883dd3f9e41c937b7b22057c4734ef7452731a3f6fd58228",
     "bin": "Cursor.exe",
     "shortcuts": [
         [
