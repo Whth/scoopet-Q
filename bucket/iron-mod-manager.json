@@ -1,10 +1,10 @@
 {
-    "version": "1.26.239",
+    "version": "1.26.240",
     "description": "Mod Manager for Paradox Games. Official Discord: https://discord.gg/t9JmY8KFrV",
     "homepage": "https://bcssov.github.io/IronyModManager/",
     "license": "GPL-3.0-only",
-    "url": "https://ghproxy.cc/https://github.com/bcssov/IronyModManager/releases/download/v1.26.239/win-x64.zip",
-    "hash": "93c2ea4c750100214da4606bbecea829fae2063e678805636d8fcbcf29e9c55c",
+    "url": "https://ghproxy.cc/https://github.com/bcssov/IronyModManager/releases/download/v1.26.240/win-x64.zip",
+    "hash": "39bffa3ae9859638ad730597cb5a2d4d38017da2c44d602baad97b50e875c2db",
     "checkver": {
         "github": "https://github.com/bcssov/IronyModManager"
     },
