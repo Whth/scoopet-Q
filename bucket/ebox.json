@@ -1,7 +1,7 @@
 {
-    "version": "0.1.17",
-    "url": "https://ghproxy.cc/https://github.com/Whth/ebox/releases/download/v0.1.17/ebox_v0.1.17.zip",
-    "hash": "e1a214ed81018ac1a9fa7bb6d816aec49f264bb0c7e7af950a61f406396a596e",
+    "version": "0.1.18",
+    "url": "https://ghproxy.cc/https://github.com/Whth/ebox/releases/download/v0.1.18/ebox_v0.1.18.zip",
+    "hash": "ebb905a8c65f8dfd18118ccb822ee4abc87dca89ac0e7f4e131411297860c3fa",
     "license": "GPL-3.0-only",
     "extract_dir": "dist",
     "env_add_path": ".",
@@ -22,6 +22,6 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/Whth/ebox/archive/refs/tags/v0.1.17.zip"
+        "https://ghproxy.cc/https://github.com/Whth/ebox/archive/refs/tags/v0.1.18.zip"
     ]
 }
