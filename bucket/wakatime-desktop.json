@@ -1,10 +1,13 @@
 {
-    "version": "2.1.2",
-    "url": "https://ghproxy.cc/https://github.com/wakatime/desktop-wakatime/releases/download/v2.1.2/wakatime-win32.exe#dl.7z",
-    "hash": "fa39b09b773f27dad51d265b736ccdbf6542b64c533c506631ffcee5fc1cbf84",
+    "version": "2.1.4",
+    "url": "https://ghproxy.cc/https://github.com/wakatime/desktop-wakatime/releases/download/v2.1.4/wakatime-win32.exe#dl.7z",
+    "hash": "53ab4156b6721867c07d0df03eb2cc86c9310a4b3c743144634bc6becfb9f471",
     "license": "BSD-3-Clause",
     "shortcuts": [
-        ["WakaTime.exe", "WakaTime"]
+        [
+            "WakaTime.exe",
+            "WakaTime"
+        ]
     ],
     "homepage": "https://github.com/wakatime/desktop-wakatime",
     "description": "Windows & Linux system tray app for automatic time tracking and metrics generated from your Figma, Postman, etc. usage.",
@@ -28,6 +31,6 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/wakatime/desktop-wakatime/archive/refs/tags/v2.1.2.zip"
+        "https://ghproxy.cc/https://github.com/wakatime/desktop-wakatime/archive/refs/tags/v2.1.4.zip"
     ]
 }
