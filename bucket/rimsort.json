@@ -1,7 +1,7 @@
 {
-    "version": "1.0.13",
-    "url": "https://ghproxy.cc/https://github.com/RimSort/RimSort/releases/download/v1.0.13/RimSort-v1.0.13-Windows_x86_64.zip",
-    "hash": "7064a27881369908ac77015f20efacab14eea268076a7a0f445c56647da9b2de",
+    "version": "1.0.14",
+    "url": "https://ghproxy.cc/https://github.com/RimSort/RimSort/releases/download/v1.0.14/RimSort-v1.0.14-Windows_x86_64.zip",
+    "hash": "9892276caf3b339fb466a88a8b6ebd2e162dd939ac498dedb70c157b7cb85f0e",
     "license": "GPL-3.0-only",
     "shortcuts": [
         [
@@ -27,7 +27,7 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/RimSort/RimSort/archive/refs/tags/v1.0.13.zip"
+        "https://ghproxy.cc/https://github.com/RimSort/RimSort/archive/refs/tags/v1.0.14.zip"
     ],
     "persist": "User Files"
 }
