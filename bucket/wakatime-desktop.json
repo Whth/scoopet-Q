@@ -1,7 +1,7 @@
 {
-    "version": "2.1.4",
-    "url": "https://ghproxy.cc/https://github.com/wakatime/desktop-wakatime/releases/download/v2.1.4/wakatime-win32.exe#dl.7z",
-    "hash": "53ab4156b6721867c07d0df03eb2cc86c9310a4b3c743144634bc6becfb9f471",
+    "version": "2.1.6",
+    "url": "https://ghproxy.cc/https://github.com/wakatime/desktop-wakatime/releases/download/v2.1.6/wakatime-win32.exe#dl.7z",
+    "hash": "d26fbbb29038d93696d66e950d03874772c8934a1064990e222c0e665d217625",
     "license": "BSD-3-Clause",
     "shortcuts": [
         [
@@ -31,6 +31,6 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/wakatime/desktop-wakatime/archive/refs/tags/v2.1.4.zip"
+        "https://ghproxy.cc/https://github.com/wakatime/desktop-wakatime/archive/refs/tags/v2.1.6.zip"
     ]
 }
