@@ -3,7 +3,7 @@
     "description": "Interactive program for the design and analysis of subsonic isolated airfoils.",
     "homepage": "https://web.mit.edu/drela/Public/web/xfoil/",
     "license": "GPL-2.0-or-later",
-    "url": "https://softpedia-secure-download.com/dl/7a7f85cb270fe367f05116ad8b401680/681f2d3c/100173387/software/science/XFOIL6.99.zip",
+    "url": "ttps://softpedia-secure-download.com/dl/2832700671fe422950cd0da6f4c9908d/68214c63/100173387/software/science/XFOIL6.99.zip",
     "bin": [
         "xfoil.exe",
         "pplot.exe",
