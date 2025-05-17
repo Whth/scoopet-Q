@@ -1,10 +1,16 @@
 {
-    "version": "3.18",
-    "url": "https://ghproxy.cc/https://github.com/ar51an/iperf3-win-builds/releases/download/3.18/iperf-3.18-win7-64Bit.zip",
-    "hash": "61472ca2b0d651b31c545172686ebf45d725b1911cb46bb7b086613c63bb2e28",
+    "version": "3.19",
+    "url": "https://ghproxy.cc/https://github.com/ar51an/iperf3-win-builds/releases/download/3.19/iperf-3.19-win7-64Bit.zip",
+    "hash": "bf9f1da2ee62b26c00f991835e3495feb6adc37f1bd3b83b83d0a26ffa4aca87",
     "bin": [
-        ["iperf3.exe", "iperf3"],
-        ["iperf3.exe", "iperf"]
+        [
+            "iperf3.exe",
+            "iperf3"
+        ],
+        [
+            "iperf3.exe",
+            "iperf"
+        ]
     ],
     "license": "GPL-3.0-only",
     "homepage": "https://github.com/ar51an/iperf3-win-builds",
@@ -27,9 +33,9 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/ar51an/iperf3-win-builds/releases/download/3.18/iperf-3.18-win64-dynamic-auth.zip",
-        "https://ghproxy.cc/https://github.com/ar51an/iperf3-win-builds/releases/download/3.18/iperf-3.18-win64-static-auth.zip",
-        "https://ghproxy.cc/https://github.com/ar51an/iperf3-win-builds/releases/download/3.18/iperf-3.18-win64.zip",
-        "https://ghproxy.cc/https://github.com/ar51an/iperf3-win-builds/archive/refs/tags/3.18.zip"
+        "https://ghproxy.cc/https://github.com/ar51an/iperf3-win-builds/releases/download/3.19/iperf-3.19-win64-dynamic-auth.zip",
+        "https://ghproxy.cc/https://github.com/ar51an/iperf3-win-builds/releases/download/3.19/iperf-3.19-win64-static-auth.zip",
+        "https://ghproxy.cc/https://github.com/ar51an/iperf3-win-builds/releases/download/3.19/iperf-3.19-win64.zip",
+        "https://ghproxy.cc/https://github.com/ar51an/iperf3-win-builds/archive/refs/tags/3.19.zip"
     ]
 }
