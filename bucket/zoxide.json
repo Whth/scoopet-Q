@@ -1,6 +1,6 @@
 {
     "version": "0.9.7",
-    "url": "https://ghproxy.cc/https://github.com/ajeetdsouza/zoxide/releases/download/v0.9.7/zoxide-0.9.7-x86_64-pc-windows-msvc.zip",
+    "url": "https://ghproxy.net/https://github.com/ajeetdsouza/zoxide/releases/download/v0.9.7/zoxide-0.9.7-x86_64-pc-windows-msvc.zip",
     "hash": "d2f7640e977170d58c3f7057a9ecbfe6597de1a3dbbd992fb2fea1255e6098e4",
     "license": "GPL-3.0-only",
     "bin": [
@@ -16,18 +16,18 @@
         "github": "https://github.com/ajeetdsouza/zoxide"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/ajeetdsouza/zoxide/releases/download/v$version/zoxide-$version-x86_64-pc-windows-msvc.zip",
+        "url": "https://ghproxy.net/https://github.com/ajeetdsouza/zoxide/releases/download/v$version/zoxide-$version-x86_64-pc-windows-msvc.zip",
         "hash": {
             "url": "$url.sha256"
         },
         "notes": [
             "Other available assets:",
-            "https://ghproxy.cc/https://github.com/ajeetdsouza/zoxide/archive/refs/tags/v$version.zip"
+            "https://ghproxy.net/https://github.com/ajeetdsouza/zoxide/archive/refs/tags/v$version.zip"
         ]
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/ajeetdsouza/zoxide/archive/refs/tags/v0.9.7.zip"
+        "https://ghproxy.net/https://github.com/ajeetdsouza/zoxide/archive/refs/tags/v0.9.7.zip"
     ],
     "post_install": [
         "$lineToAdd = 'Invoke-Expression (& { (zoxide init powershell | Out-String) })'",

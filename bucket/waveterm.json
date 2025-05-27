@@ -1,6 +1,6 @@
 {
     "version": "0.11.3",
-    "url": "https://ghproxy.cc/https://github.com/wavetermdev/waveterm/releases/download/v0.11.3/Wave-win32-x64-0.11.3.msi",
+    "url": "https://ghproxy.net/https://github.com/wavetermdev/waveterm/releases/download/v0.11.3/Wave-win32-x64-0.11.3.msi",
     "hash": "51858b912557f7cfbbcd864f2450eb1fc8e022ba77994079a1b6d3b68dd570de",
     "license": "Apache-2.0",
     "shortcuts": [
@@ -16,7 +16,7 @@
         "github": "https://github.com/wavetermdev/waveterm"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/wavetermdev/waveterm/releases/download/v$version/Wave-win32-x64-$version.msi",
+        "url": "https://ghproxy.net/https://github.com/wavetermdev/waveterm/releases/download/v$version/Wave-win32-x64-$version.msi",
         "hash": {
             "url": "$url.sha256"
         }

@@ -3,7 +3,7 @@
     "description": "Display real-time trends of Chinese funds in the menubar",
     "homepage": "https://github.com/1zilc/fishing-funds",
     "license": "LGPL-3.0-only",
-    "url": "https://ghproxy.cc/https://github.com/1zilc/fishing-funds/releases/download/8.4.0/Fishing-Funds-Setup-8.4.0.exe#/dl.7z",
+    "url": "https://ghproxy.net/https://github.com/1zilc/fishing-funds/releases/download/8.4.0/Fishing-Funds-Setup-8.4.0.exe#/dl.7z",
     "hash": "56ff6d9710699675a6cf98daa487a3818b70489f96e604ec5d21baed4b700fce",
     "shortcuts": [
         [
@@ -20,6 +20,6 @@
         "github": "https://github.com/1zilc/fishing-funds"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/1zilc/fishing-funds/releases/download/$version/Fishing-Funds-Setup-$version.exe#/dl.7z"
+        "url": "https://ghproxy.net/https://github.com/1zilc/fishing-funds/releases/download/$version/Fishing-Funds-Setup-$version.exe#/dl.7z"
     }
 }

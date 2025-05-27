@@ -1,6 +1,6 @@
 {
     "version": "1.3.5",
-    "url": "https://ghproxy.cc/https://github.com/j178/chatgpt/releases/download/v1.3.5/chatgpt_Windows_x86_64.zip",
+    "url": "https://ghproxy.net/https://github.com/j178/chatgpt/releases/download/v1.3.5/chatgpt_Windows_x86_64.zip",
     "hash": "590ac40945eb0e95df8fbda40c4fc2b119a5f9db92a26c2ed2c9591923fe2171",
     "license": "Unknown",
     "bin": [
@@ -12,17 +12,17 @@
         "github": "https://github.com/j178/chatgpt"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/j178/chatgpt/releases/download/v$version/chatgpt_Windows_x86_64.zip",
+        "url": "https://ghproxy.net/https://github.com/j178/chatgpt/releases/download/v$version/chatgpt_Windows_x86_64.zip",
         "hash": {
             "url": "$url.sha256"
         },
         "notes": [
             "Other available assets:",
-            "https://ghproxy.cc/https://github.com/j178/chatgpt/archive/refs/tags/v$version.zip"
+            "https://ghproxy.net/https://github.com/j178/chatgpt/archive/refs/tags/v$version.zip"
         ]
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/j178/chatgpt/archive/refs/tags/v1.3.5.zip"
+        "https://ghproxy.net/https://github.com/j178/chatgpt/archive/refs/tags/v1.3.5.zip"
     ]
 }

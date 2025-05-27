@@ -1,6 +1,6 @@
 {
     "version": "0.8.0",
-    "url": "https://ghproxy.cc/https://github.com/NaturalWhiteX/vambox-release/releases/download/0.8.0/vambox-v0.8.0.7z",
+    "url": "https://ghproxy.net/https://github.com/NaturalWhiteX/vambox-release/releases/download/0.8.0/vambox-v0.8.0.7z",
     "hash": "84bc7b8db7c5b93e091cecfd1dbc91b619d7b3c76abebe18e30f610873d21714",
     "license": "GPL-3.0-only",
     "shortcuts": [
@@ -16,17 +16,17 @@
         "github": "https://github.com/NaturalWhiteX/vambox-release"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/NaturalWhiteX/vambox-release/releases/download/$version/vambox-v$version.7z",
+        "url": "https://ghproxy.net/https://github.com/NaturalWhiteX/vambox-release/releases/download/$version/vambox-v$version.7z",
         "hash": {
             "url": "$url.sha256"
         },
         "notes": [
             "Other available assets:",
-            "https://ghproxy.cc/https://github.com/NaturalWhiteX/vambox-release/archive/refs/tags/$version.zip"
+            "https://ghproxy.net/https://github.com/NaturalWhiteX/vambox-release/archive/refs/tags/$version.zip"
         ]
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/NaturalWhiteX/vambox-release/archive/refs/tags/0.8.0.zip"
+        "https://ghproxy.net/https://github.com/NaturalWhiteX/vambox-release/archive/refs/tags/0.8.0.zip"
     ]
 }

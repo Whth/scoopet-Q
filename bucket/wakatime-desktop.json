@@ -1,6 +1,6 @@
 {
     "version": "2.1.6",
-    "url": "https://ghproxy.cc/https://github.com/wakatime/desktop-wakatime/releases/download/v2.1.6/wakatime-win32.exe#dl.7z",
+    "url": "https://ghproxy.net/https://github.com/wakatime/desktop-wakatime/releases/download/v2.1.6/wakatime-win32.exe#dl.7z",
     "hash": "d26fbbb29038d93696d66e950d03874772c8934a1064990e222c0e665d217625",
     "license": "BSD-3-Clause",
     "shortcuts": [
@@ -20,17 +20,17 @@
         "Remove-Item \"$dir\\`$PLUGINSDIR\",\"$dir\\`$R0\" -Force -Recurse"
     ],
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/wakatime/desktop-wakatime/releases/download/v$version/wakatime-win32.exe#dl.7z",
+        "url": "https://ghproxy.net/https://github.com/wakatime/desktop-wakatime/releases/download/v$version/wakatime-win32.exe#dl.7z",
         "hash": {
             "url": "$url.sha256"
         },
         "notes": [
             "Other available assets:",
-            "https://ghproxy.cc/https://github.com/wakatime/desktop-wakatime/archive/refs/tags/v$version.zip"
+            "https://ghproxy.net/https://github.com/wakatime/desktop-wakatime/archive/refs/tags/v$version.zip"
         ]
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/wakatime/desktop-wakatime/archive/refs/tags/v2.1.6.zip"
+        "https://ghproxy.net/https://github.com/wakatime/desktop-wakatime/archive/refs/tags/v2.1.6.zip"
     ]
 }

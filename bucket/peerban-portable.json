@@ -1,6 +1,6 @@
 {
     "version": "7.4.15",
-    "url": "https://ghproxy.cc/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v7.4.15/PeerBanHelper_Windows_7.4.15_Portable.zip",
+    "url": "https://ghproxy.net/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v7.4.15/PeerBanHelper_Windows_7.4.15_Portable.zip",
     "hash": "bf95da0cab9c7cb1becd6912dd3159a89e5af0cb870e645e0dd53fe193324647",
     "license": "GPL-3.0-only",
     "bin": [
@@ -22,24 +22,24 @@
         "github": "https://github.com/PBH-BTN/PeerBanHelper"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v$version/PeerBanHelper_Windows_$version_Portable.zip",
+        "url": "https://ghproxy.net/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v$version/PeerBanHelper_Windows_$version_Portable.zip",
         "hash": {
             "url": "https://github.com/PBH-BTN/PeerBanHelper/releases/download/v$version/PeerBanHelper_Windows_$version_Portable.zip.sha256"
         },
         "notes": [
             "Other available assets:",
-            "https://ghproxy.cc/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v$version/PeerBanHelper_$version.zip",
-            "https://ghproxy.cc/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v$version/PeerBanHelper_Installers.tar.gz",
-            "https://ghproxy.cc/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v$version/PeerBanHelper_windows-x64_$version_nojava.exe",
-            "https://ghproxy.cc/https://github.com/PBH-BTN/PeerBanHelper/archive/refs/tags/v$version.zip"
+            "https://ghproxy.net/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v$version/PeerBanHelper_$version.zip",
+            "https://ghproxy.net/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v$version/PeerBanHelper_Installers.tar.gz",
+            "https://ghproxy.net/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v$version/PeerBanHelper_windows-x64_$version_nojava.exe",
+            "https://ghproxy.net/https://github.com/PBH-BTN/PeerBanHelper/archive/refs/tags/v$version.zip"
         ]
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v7.4.15/PeerBanHelper_7.4.15.zip",
-        "https://ghproxy.cc/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v7.4.15/PeerBanHelper_Installers.tar.gz",
-        "https://ghproxy.cc/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v7.4.15/PeerBanHelper_windows-x64_7.4.15_nojava.exe",
-        "https://ghproxy.cc/https://github.com/PBH-BTN/PeerBanHelper/archive/refs/tags/v7.4.15.zip"
+        "https://ghproxy.net/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v7.4.15/PeerBanHelper_7.4.15.zip",
+        "https://ghproxy.net/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v7.4.15/PeerBanHelper_Installers.tar.gz",
+        "https://ghproxy.net/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v7.4.15/PeerBanHelper_windows-x64_7.4.15_nojava.exe",
+        "https://ghproxy.net/https://github.com/PBH-BTN/PeerBanHelper/archive/refs/tags/v7.4.15.zip"
     ],
     "persist": "data"
 }

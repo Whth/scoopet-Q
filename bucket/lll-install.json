@@ -1,6 +1,6 @@
 {
     "version": "1.18.1",
-    "url": "https://ghproxy.cc/https://github.com/Mzdyl/LiteLoaderQQNT_Install/releases/download/1.18.1/install_windows_nuitka.exe",
+    "url": "https://ghproxy.net/https://github.com/Mzdyl/LiteLoaderQQNT_Install/releases/download/1.18.1/install_windows_nuitka.exe",
     "hash": "4c5f56a8b3ca356050e6ded172aa58d71cf3a7dea584e1ac7e1cc183d200d24e",
     "license": "BSD-3-Clause",
     "bin": [
@@ -15,7 +15,7 @@
         "github": "https://github.com/Mzdyl/LiteLoaderQQNT_Install"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/Mzdyl/LiteLoaderQQNT_Install/releases/download/$version/install_windows_nuitka.exe",
+        "url": "https://ghproxy.net/https://github.com/Mzdyl/LiteLoaderQQNT_Install/releases/download/$version/install_windows_nuitka.exe",
         "hash": {
             "url": "$url.sha256"
         }

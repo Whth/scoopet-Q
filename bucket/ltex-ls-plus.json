@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/ltex-plus/ltex-ls-plus/releases/download/18.5.1/ltex-ls-plus-18.5.1-windows-x64.zip",
+            "url": "https://ghproxy.net/https://github.com/ltex-plus/ltex-ls-plus/releases/download/18.5.1/ltex-ls-plus-18.5.1-windows-x64.zip",
             "hash": "ed47125132622f843cef1dbd286074ec56b83457e0ace0e58b58736f32a84009"
         },
         "arm64": {
-            "url": "https://ghproxy.cc/https://github.com/ltex-plus/ltex-ls-plus/releases/download/18.5.1/ltex-ls-plus-18.5.1-windows-aarch64.zip",
+            "url": "https://ghproxy.net/https://github.com/ltex-plus/ltex-ls-plus/releases/download/18.5.1/ltex-ls-plus-18.5.1-windows-aarch64.zip",
             "hash": "e87836df466150b25736cc3faede249b9c3a3bda73626b2ecee9960495b11d2e"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/ltex-plus/ltex-ls-plus/releases/download/$version/ltex-ls-plus-$version-windows-x64.zip"
+                "url": "https://ghproxy.net/https://github.com/ltex-plus/ltex-ls-plus/releases/download/$version/ltex-ls-plus-$version-windows-x64.zip"
             },
             "arm64": {
-                "url": "https://ghproxy.cc/https://github.com/ltex-plus/ltex-ls-plus/releases/download/$version/ltex-ls-plus-$version-windows-aarch64.zip"
+                "url": "https://ghproxy.net/https://github.com/ltex-plus/ltex-ls-plus/releases/download/$version/ltex-ls-plus-$version-windows-aarch64.zip"
             }
         }
     }

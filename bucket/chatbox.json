@@ -3,7 +3,7 @@
     "description": "Cross-platform desktop client for OpenAI API",
     "homepage": "https://github.com/Bin-Huang/chatbox",
     "license": "NO LICENSE",
-    "url": "https://ghproxy.cc/https://github.com/Bin-Huang/chatbox/releases/download/v0.10.4/Chatbox-CE-0.10.4-Setup.exe#/setup.exe",
+    "url": "https://ghproxy.net/https://github.com/Bin-Huang/chatbox/releases/download/v0.10.4/Chatbox-CE-0.10.4-Setup.exe#/setup.exe",
     "hash": "6c5b38a3c89103cc3ce7d528f6bfbaff1a1ab994e83bf0b4fc0e86986ce6d28c",
     "extract_dir": "PFiles\\chatbox",
     "bin": "chatbox.exe",
@@ -17,6 +17,6 @@
         "github": "https://github.com/Bin-Huang/chatbox"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/Bin-Huang/chatbox/releases/download/v$version/Chatbox-CE-$version-Setup.exe#/setup.exe"
+        "url": "https://ghproxy.net/https://github.com/Bin-Huang/chatbox/releases/download/v$version/Chatbox-CE-$version-Setup.exe#/setup.exe"
     }
 }

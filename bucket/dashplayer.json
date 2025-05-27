@@ -3,7 +3,7 @@
     "description": "A vedio player just for learning English",
     "homepage": "https://github.com/solidSpoon/DashPlayer",
     "license": "MIT",
-    "url": "https://ghproxy.cc/https://github.com/solidSpoon/DashPlayer/releases/download/v5.1.5/DashPlayer-5.1.5.setup.exe",
+    "url": "https://ghproxy.net/https://github.com/solidSpoon/DashPlayer/releases/download/v5.1.5/DashPlayer-5.1.5.setup.exe",
     "hash": "d3e0b56f2c5e2a3fdcfb4d1d799aabfbfd955822965c99132880fa5d79334a5e",
     "installer": {
         "script": [
@@ -22,6 +22,6 @@
         "github": "https://github.com/solidSpoon/DashPlayer"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/solidSpoon/DashPlayer/releases/download/v$version/DashPlayer-$version.setup.exe"
+        "url": "https://ghproxy.net/https://github.com/solidSpoon/DashPlayer/releases/download/v$version/DashPlayer-$version.setup.exe"
     }
 }

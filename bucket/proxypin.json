@@ -1,6 +1,6 @@
 {
     "version": "1.1.7",
-    "url": "https://ghproxy.cc/https://github.com/wanghongenpin/proxypin/releases/download/v1.1.7/ProxyPin-Windows.zip",
+    "url": "https://ghproxy.net/https://github.com/wanghongenpin/proxypin/releases/download/v1.1.7/ProxyPin-Windows.zip",
     "hash": "a3fb7fedab2c52bacd3d65660f2de445674c49c5cea03d9eccf06069e1a76623",
     "license": "Apache-2.0",
     "shortcuts": [["ProxyPin.exe", "ProxyPin"]],
@@ -11,19 +11,19 @@
         "github": "https://github.com/wanghongenpin/proxypin"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/wanghongenpin/proxypin/releases/download/v$version/ProxyPin-Windows.zip",
+        "url": "https://ghproxy.net/https://github.com/wanghongenpin/proxypin/releases/download/v$version/ProxyPin-Windows.zip",
         "hash": {
             "url": "$url.sha256"
         },
         "notes": [
             "Other available assets:",
-            "https://ghproxy.cc/https://github.com/wanghongenpin/proxypin/releases/download/v$version/ProxyPin-Windows7_x64.zip",
-            "https://ghproxy.cc/https://github.com/wanghongenpin/proxypin/archive/refs/tags/v$version.zip"
+            "https://ghproxy.net/https://github.com/wanghongenpin/proxypin/releases/download/v$version/ProxyPin-Windows7_x64.zip",
+            "https://ghproxy.net/https://github.com/wanghongenpin/proxypin/archive/refs/tags/v$version.zip"
         ]
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/wanghongenpin/proxypin/releases/download/v1.1.7/ProxyPin-Windows7_x64.zip",
-        "https://ghproxy.cc/https://github.com/wanghongenpin/proxypin/archive/refs/tags/v1.1.7.zip"
+        "https://ghproxy.net/https://github.com/wanghongenpin/proxypin/releases/download/v1.1.7/ProxyPin-Windows7_x64.zip",
+        "https://ghproxy.net/https://github.com/wanghongenpin/proxypin/archive/refs/tags/v1.1.7.zip"
     ]
 }

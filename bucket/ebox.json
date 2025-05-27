@@ -1,6 +1,6 @@
 {
     "version": "0.1.33",
-    "url": "https://ghproxy.cc/https://github.com/Whth/ebox/releases/download/v0.1.33/ebox_v0.1.33.zip",
+    "url": "https://ghproxy.net/https://github.com/Whth/ebox/releases/download/v0.1.33/ebox_v0.1.33.zip",
     "hash": "b5866314b49b3d50e02260b1d24807dfef3cdcb74d177b17c0067ad054d4bd54",
     "license": "GPL-3.0-only",
     "extract_dir": "dist",
@@ -11,17 +11,17 @@
         "github": "https://github.com/Whth/ebox"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/Whth/ebox/releases/download/v$version/ebox_v$version.zip",
+        "url": "https://ghproxy.net/https://github.com/Whth/ebox/releases/download/v$version/ebox_v$version.zip",
         "hash": {
             "url": "$url.sha256"
         },
         "notes": [
             "Other available assets:",
-            "https://ghproxy.cc/https://github.com/Whth/ebox/archive/refs/tags/v$version.zip"
+            "https://ghproxy.net/https://github.com/Whth/ebox/archive/refs/tags/v$version.zip"
         ]
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/Whth/ebox/archive/refs/tags/v0.1.33.zip"
+        "https://ghproxy.net/https://github.com/Whth/ebox/archive/refs/tags/v0.1.33.zip"
     ]
 }

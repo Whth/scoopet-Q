@@ -1,6 +1,6 @@
 {
     "version": "3.0.0-rc.16",
-    "url": "https://ghproxy.cc/https://github.com/BeyondDimension/SteamTools/releases/download/3.0.0-rc.16/Steam%2B%2B_v3.0.0-rc.16_win_x64.7z",
+    "url": "https://ghproxy.net/https://github.com/BeyondDimension/SteamTools/releases/download/3.0.0-rc.16/Steam%2B%2B_v3.0.0-rc.16_win_x64.7z",
     "hash": "36eb952eec538af7e2c4d5b8d7bed8e9232e7349f054f094221e4486f0dbe893",
     "license": "GPL-3.0-only",
     "shortcuts": [
@@ -17,19 +17,19 @@
         "regex": "((?:\\d+\\.){2}\\d+(?:-rc\\.\\d+)?)"
     },
     "autoupdate": {
-        "url": "https://ghproxy.cc/https://github.com/BeyondDimension/SteamTools/releases/download/$version/Steam%2B%2B_v$version_win_x64.7z",
+        "url": "https://ghproxy.net/https://github.com/BeyondDimension/SteamTools/releases/download/$version/Steam%2B%2B_v$version_win_x64.7z",
         "hash": {
             "url": "$url.sha256"
         },
         "notes": [
             "Other available assets:",
-            "https://ghproxy.cc/https://github.com/BeyondDimension/SteamTools/releases/download/$version/Steam%2B%2B_v$version_win_x64.exe",
-            "https://ghproxy.cc/https://github.com/BeyondDimension/SteamTools/archive/refs/tags/$version.zip"
+            "https://ghproxy.net/https://github.com/BeyondDimension/SteamTools/releases/download/$version/Steam%2B%2B_v$version_win_x64.exe",
+            "https://ghproxy.net/https://github.com/BeyondDimension/SteamTools/archive/refs/tags/$version.zip"
         ]
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.cc/https://github.com/BeyondDimension/SteamTools/releases/download/3.0.0-rc.16/Steam%2B%2B_v3.0.0-rc.16_win_x64.exe",
-        "https://ghproxy.cc/https://github.com/BeyondDimension/SteamTools/archive/refs/tags/3.0.0-rc.16.zip"
+        "https://ghproxy.net/https://github.com/BeyondDimension/SteamTools/releases/download/3.0.0-rc.16/Steam%2B%2B_v3.0.0-rc.16_win_x64.exe",
+        "https://ghproxy.net/https://github.com/BeyondDimension/SteamTools/archive/refs/tags/3.0.0-rc.16.zip"
     ]
 }
