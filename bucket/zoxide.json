@@ -1,7 +1,7 @@
 {
-    "version": "0.9.7",
-    "url": "https://ghproxy.net/https://github.com/ajeetdsouza/zoxide/releases/download/v0.9.7/zoxide-0.9.7-x86_64-pc-windows-msvc.zip",
-    "hash": "d2f7640e977170d58c3f7057a9ecbfe6597de1a3dbbd992fb2fea1255e6098e4",
+    "version": "0.9.8",
+    "url": "https://ghproxy.net/https://github.com/ajeetdsouza/zoxide/releases/download/v0.9.8/zoxide-0.9.8-x86_64-pc-windows-msvc.zip",
+    "hash": "15dbd23ae3d98e2a745d0e8e3f0292402f0a2269b47519b81a6e994baca5db2b",
     "license": "GPL-3.0-only",
     "bin": [
         [
@@ -27,7 +27,7 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.net/https://github.com/ajeetdsouza/zoxide/archive/refs/tags/v0.9.7.zip"
+        "https://ghproxy.net/https://github.com/ajeetdsouza/zoxide/archive/refs/tags/v0.9.8.zip"
     ],
     "post_install": [
         "$lineToAdd = 'Invoke-Expression (& { (zoxide init powershell | Out-String) })'",
