@@ -1,9 +1,9 @@
 {
     "version": "3.9.3",
     "url": "https://ghproxy.net/https://github.com/facontidavide/PlotJuggler/releases/download/3.9.3/PlotJuggler-Windows-3.9.3-installer.exe",
-    "hash": "",
-    "license": "GPL-3.0-only",
-    "bin": [],
+    "hash": "edf0042e90aae1d61b7628cbe5ad0a474b15a5298f7331c91289405a6a4760f1",
+    "license": "LGPL",
+    "bin": "PlotJuggler-Windows-$version-installer.exe",
     "shortcuts": [],
     "homepage": "https://github.com/facontidavide/PlotJuggler",
     "description": "The Time Series Visualization Tool that you deserve.",
