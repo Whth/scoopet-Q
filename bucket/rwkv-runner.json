@@ -1,7 +1,7 @@
 {
-    "version": "1.9.3",
-    "url": "https://ghproxy.net/https://github.com/josStorer/RWKV-Runner/releases/download/v1.9.3/RWKV-Runner_windows_x64.exe",
-    "hash": "238758929098f4b3d03d4ffe351c51b1e943b7c8faf9580fbf2ddf63158d6f40",
+    "version": "1.9.4",
+    "url": "https://ghproxy.net/https://github.com/josStorer/RWKV-Runner/releases/download/v1.9.4/RWKV-Runner_windows_x64.exe",
+    "hash": "dae1213631ef3d3eb80d21dc73c6ef1e80e0386016de78847a709571533aa370",
     "license": "GPL-3.0-only",
     "shortcuts": [
         [
