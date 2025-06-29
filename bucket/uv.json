@@ -21,8 +21,8 @@
         "github": "https://github.com/astral-sh/uv"
     },
     "env_set": {
-        "UV_INDEX": "https://mirrors.bfsu.edu.cn/pypi/web/simple https://mirrors.aliyun.com/pypi/simple/ https://mirrors.huaweicloud.com/repository/pypi/simple https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple",
-        "UV_DEFAULT_INDEX": "https://mirrors.bfsu.edu.cn/pypi/web/simple",
+        "UV_INDEX": "https://mirrors.aliyun.com/pypi/simple/ https://mirrors.huaweicloud.com/repository/pypi/simple https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple",
+        "UV_DEFAULT_INDEX": "https://mirrors.aliyun.com/pypi/simple/",
         "UV_TOOL_BIN_DIR": "$dir/bin",
         "UV_PYTHON_INSTALL_MIRROR": "https://ghproxy.net/https://github.com/indygreg/python-build-standalone/releases/download",
         "UV_PYTHON_INSTALL_DIR": "$dir/python"
