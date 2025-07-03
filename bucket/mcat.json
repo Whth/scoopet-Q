@@ -1,7 +1,7 @@
 {
-    "version": "0.3.4",
-    "url": "https://ghproxy.net/https://github.com/Skardyy/mcat/releases/download/v0.3.4/mcat-x86_64-pc-windows-msvc.zip",
-    "hash": "56bbbec85ea3f59f30dda140ec86f85d01279b8e1f01956131b1a61e72e22978",
+    "version": "0.3.8",
+    "url": "https://ghproxy.net/https://github.com/Skardyy/mcat/releases/download/v0.3.8/mcat-x86_64-pc-windows-msvc.zip",
+    "hash": "83f855372db458e353e6d565ad510664b3a4e77826d3962fd24a35c27e7771d4",
     "license": "GPL-3.0-only",
     "bin": "mcat.exe",
     "homepage": "https://github.com/Skardyy/mcat",
@@ -22,7 +22,7 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.net/https://github.com/Skardyy/mcat/releases/download/v0.3.4/source.tar.gz",
-        "https://ghproxy.net/https://github.com/Skardyy/mcat/archive/refs/tags/v0.3.4.zip"
+        "https://ghproxy.net/https://github.com/Skardyy/mcat/releases/download/v0.3.8/source.tar.gz",
+        "https://ghproxy.net/https://github.com/Skardyy/mcat/archive/refs/tags/v0.3.8.zip"
     ]
 }
