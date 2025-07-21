@@ -1,7 +1,7 @@
 {
-    "version": "0.8.1",
-    "url": "https://ghproxy.net/https://github.com/NaturalWhiteX/vambox-release/releases/download/0.8.1/vambox-v0.8.1.7z",
-    "hash": "3b2d42ddcae5093b2eb20bd469e1f1d262626056f3f311e84fb569563cab0e33",
+    "version": "0.8.2",
+    "url": "https://ghproxy.net/https://github.com/NaturalWhiteX/vambox-release/releases/download/0.8.2/vambox-v0.8.2.7z",
+    "hash": "0accae5d310a2d4dea2e7ac6b09e395ab8408f1461fb566da185d6c6a73240b7",
     "license": "GPL-3.0-only",
     "shortcuts": [
         [
@@ -27,6 +27,6 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.net/https://github.com/NaturalWhiteX/vambox-release/archive/refs/tags/0.8.1.zip"
+        "https://ghproxy.net/https://github.com/NaturalWhiteX/vambox-release/archive/refs/tags/0.8.2.zip"
     ]
 }
