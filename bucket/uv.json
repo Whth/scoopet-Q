@@ -5,11 +5,11 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/astral-sh/uv/releases/download/0.8.2/uv-x86_64-pc-windows-msvc.zip",
+            "url": "https://ghfast.top/https://github.com/astral-sh/uv/releases/download/0.8.2/uv-x86_64-pc-windows-msvc.zip",
             "hash": "503a430df36957f851daedaed707a2ab69ed21a48bd499c2f0f7253ad5ba983f"
         },
         "32bit": {
-            "url": "https://ghproxy.net/https://github.com/astral-sh/uv/releases/download/0.8.2/uv-i686-pc-windows-msvc.zip",
+            "url": "https://ghfast.top/https://github.com/astral-sh/uv/releases/download/0.8.2/uv-i686-pc-windows-msvc.zip",
             "hash": "d862eaf046abe9143b3e172137cb50657920d324cb3e00be78d22aba4478d7f8"
         }
     },
@@ -24,7 +24,7 @@
         "UV_INDEX": "https://mirrors.aliyun.com/pypi/simple/ https://mirrors.huaweicloud.com/repository/pypi/simple https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple",
         "UV_DEFAULT_INDEX": "https://mirrors.aliyun.com/pypi/simple/",
         "UV_TOOL_BIN_DIR": "$dir/bin",
-        "UV_PYTHON_INSTALL_MIRROR": "https://ghproxy.net/https://github.com/indygreg/python-build-standalone/releases/download",
+        "UV_PYTHON_INSTALL_MIRROR": "https://ghfast.top/https://github.com/indygreg/python-build-standalone/releases/download",
         "UV_PYTHON_INSTALL_DIR": "$dir/python"
     },
     "env_add_path": "bin",
@@ -35,10 +35,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/astral-sh/uv/releases/download/$version/uv-x86_64-pc-windows-msvc.zip"
+                "url": "https://ghfast.top/https://github.com/astral-sh/uv/releases/download/$version/uv-x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://ghproxy.net/https://github.com/astral-sh/uv/releases/download/$version/uv-i686-pc-windows-msvc.zip"
+                "url": "https://ghfast.top/https://github.com/astral-sh/uv/releases/download/$version/uv-i686-pc-windows-msvc.zip"
             }
         },
         "hash": {

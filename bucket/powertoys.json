@@ -12,11 +12,11 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/microsoft/PowerToys/releases/download/v0.92.0/PowerToysUserSetup-0.92.0-x64.exe",
+            "url": "https://ghfast.top/https://github.com/microsoft/PowerToys/releases/download/v0.92.0/PowerToysUserSetup-0.92.0-x64.exe",
             "hash": "e2126f7c3baebef8367d4702489654b13e211b5ccfa1e3ac437cafc772b1a219"
         },
         "arm64": {
-            "url": "https://ghproxy.net/https://github.com/microsoft/PowerToys/releases/download/v0.92.0/PowerToysUserSetup-0.92.0-arm64.exe",
+            "url": "https://ghfast.top/https://github.com/microsoft/PowerToys/releases/download/v0.92.0/PowerToysUserSetup-0.92.0-arm64.exe",
             "hash": "5dc32a790f2b6d9c06ca3397e9adcd382472bb2c9b45bc288d75dcb951a20faf"
         }
     },
@@ -79,14 +79,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/microsoft/PowerToys/releases/download/$matchTag/PowerToysUserSetup-$version-x64.exe",
+                "url": "https://ghfast.top/https://github.com/microsoft/PowerToys/releases/download/$matchTag/PowerToysUserSetup-$version-x64.exe",
                 "hash": {
                     "url": "https://github.com/microsoft/PowerToys/releases/tag/$matchTag",
                     "regex": ">$sha256<"
                 }
             },
             "arm64": {
-                "url": "https://ghproxy.net/https://github.com/microsoft/PowerToys/releases/download/$matchTag/PowerToysUserSetup-$version-arm64.exe",
+                "url": "https://ghfast.top/https://github.com/microsoft/PowerToys/releases/download/$matchTag/PowerToysUserSetup-$version-arm64.exe",
                 "hash": {
                     "url": "https://github.com/microsoft/PowerToys/releases/tag/$matchTag",
                     "regex": ">(?:[a-fA-F0-9]{64})<[\\s\\S]*?>([a-fA-F0-9]{64})<"

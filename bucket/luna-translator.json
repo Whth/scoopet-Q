@@ -1,6 +1,6 @@
 {
     "version": "9.4.5",
-    "url": "https://ghproxy.net/https://github.com/HIllya51/LunaTranslator/releases/download/v9.4.5/LunaTranslator.zip",
+    "url": "https://ghfast.top/https://github.com/HIllya51/LunaTranslator/releases/download/v9.4.5/LunaTranslator.zip",
     "hash": "c5c4b1c4bdb529a439bb28c2d3859e7d17c6dc938600646604d8a44470c938fb",
     "license": "GPL-3.0-only",
     "shortcuts": [
@@ -16,7 +16,7 @@
         "github": "https://github.com/HIllya51/LunaTranslator"
     },
     "autoupdate": {
-        "url": "https://ghproxy.net/https://github.com/HIllya51/LunaTranslator/releases/download/v$version/LunaTranslator.zip",
+        "url": "https://ghfast.top/https://github.com/HIllya51/LunaTranslator/releases/download/v$version/LunaTranslator.zip",
         "hash": {
             "url": "https://github.com/HIllya51/LunaTranslator/releases/download/v$version/LunaTranslator.zip.sha256"
         }

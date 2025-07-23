@@ -1,6 +1,6 @@
 {
     "version": "0.3.8",
-    "url": "https://ghproxy.net/https://github.com/Skardyy/mcat/releases/download/v0.3.8/mcat-x86_64-pc-windows-msvc.zip",
+    "url": "https://ghfast.top/https://github.com/Skardyy/mcat/releases/download/v0.3.8/mcat-x86_64-pc-windows-msvc.zip",
     "hash": "83f855372db458e353e6d565ad510664b3a4e77826d3962fd24a35c27e7771d4",
     "license": "GPL-3.0-only",
     "bin": "mcat.exe",
@@ -10,19 +10,19 @@
         "github": "https://github.com/Skardyy/mcat"
     },
     "autoupdate": {
-        "url": "https://ghproxy.net/https://github.com/Skardyy/mcat/releases/download/v$version/mcat-x86_64-pc-windows-msvc.zip",
+        "url": "https://ghfast.top/https://github.com/Skardyy/mcat/releases/download/v$version/mcat-x86_64-pc-windows-msvc.zip",
         "hash": {
             "url": "https://github.com/Skardyy/mcat/releases/download/v$version/mcat-x86_64-pc-windows-msvc.zip.sha256"
         },
         "notes": [
             "Other available assets:",
-            "https://ghproxy.net/https://github.com/Skardyy/mcat/releases/download/v$version/source.tar.gz",
-            "https://ghproxy.net/https://github.com/Skardyy/mcat/archive/refs/tags/v$version.zip"
+            "https://ghfast.top/https://github.com/Skardyy/mcat/releases/download/v$version/source.tar.gz",
+            "https://ghfast.top/https://github.com/Skardyy/mcat/archive/refs/tags/v$version.zip"
         ]
     },
     "notes": [
         "Other available assets:",
-        "https://ghproxy.net/https://github.com/Skardyy/mcat/releases/download/v0.3.8/source.tar.gz",
-        "https://ghproxy.net/https://github.com/Skardyy/mcat/archive/refs/tags/v0.3.8.zip"
+        "https://ghfast.top/https://github.com/Skardyy/mcat/releases/download/v0.3.8/source.tar.gz",
+        "https://ghfast.top/https://github.com/Skardyy/mcat/archive/refs/tags/v0.3.8.zip"
     ]
 }

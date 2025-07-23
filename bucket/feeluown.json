@@ -3,7 +3,7 @@
     "description": "trying to be a robust, user-friendly and hackable music player",
     "homepage": "https://feeluown.readthedocs.io",
     "license": "GPL-3.0-or-later",
-    "url": "https://ghproxy.net/https://github.com/feeluown/FeelUOwn/releases/download/v4.1.13/FeelUOwn-windows.zip",
+    "url": "https://ghfast.top/https://github.com/feeluown/FeelUOwn/releases/download/v4.1.13/FeelUOwn-windows.zip",
     "hash": "4ad11c8af2ac8a9e8534f22932d7b6b371779f6b2c5c00f90bd90d874a8bcf8e",
     "extract_dir": "FeelUOwn",
     "bin": [
@@ -22,7 +22,7 @@
         "github": "https://github.com/feeluown/FeelUOwn"
     },
     "autoupdate": {
-        "url": "https://ghproxy.net/https://github.com/feeluown/FeelUOwn/releases/download/v$version/FeelUOwn-windows.zip"
+        "url": "https://ghfast.top/https://github.com/feeluown/FeelUOwn/releases/download/v$version/FeelUOwn-windows.zip"
     },
     "notes": [
         "Config and data are stored in %HOMEPATH%\\.FeelUOwn",

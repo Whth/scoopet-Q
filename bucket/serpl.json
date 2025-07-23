@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.net/https://github.com/yassinebridi/serpl/releases/download/0.3.4/serpl-0.3.4-windows-x86_64.tar.gz",
+            "url": "https://ghfast.top/https://github.com/yassinebridi/serpl/releases/download/0.3.4/serpl-0.3.4-windows-x86_64.tar.gz",
             "hash": "0e64adf27ab40367f08168ec091f9a002303157d16575797e7d176b4ff60c925"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.net/https://github.com/yassinebridi/serpl/releases/download/$version/serpl-$version-windows-x86_64.tar.gz"
+                "url": "https://ghfast.top/https://github.com/yassinebridi/serpl/releases/download/$version/serpl-$version-windows-x86_64.tar.gz"
             }
         }
     }
