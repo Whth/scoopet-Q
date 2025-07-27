@@ -1,7 +1,7 @@
 {
-    "version": "3.19",
-    "url": "https://ghfast.top/https://github.com/ar51an/iperf3-win-builds/releases/download/3.19/iperf-3.19-win7-64Bit.zip",
-    "hash": "bf9f1da2ee62b26c00f991835e3495feb6adc37f1bd3b83b83d0a26ffa4aca87",
+    "version": "3.19.1",
+    "url": "https://ghfast.top/https://github.com/ar51an/iperf3-win-builds/releases/download/3.19.1/iperf-3.19.1-win7-64Bit.zip",
+    "hash": "ea456ca3b9a0206519f1bdecf11a5f294ef7564a90a12d378579638fdbbe7842",
     "bin": [
         [
             "iperf3.exe",
@@ -33,9 +33,9 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghfast.top/https://github.com/ar51an/iperf3-win-builds/releases/download/3.19/iperf-3.19-win64-dynamic-auth.zip",
-        "https://ghfast.top/https://github.com/ar51an/iperf3-win-builds/releases/download/3.19/iperf-3.19-win64-static-auth.zip",
-        "https://ghfast.top/https://github.com/ar51an/iperf3-win-builds/releases/download/3.19/iperf-3.19-win64.zip",
-        "https://ghfast.top/https://github.com/ar51an/iperf3-win-builds/archive/refs/tags/3.19.zip"
+        "https://ghfast.top/https://github.com/ar51an/iperf3-win-builds/releases/download/3.19.1/iperf-3.19.1-win64-dynamic-auth.zip",
+        "https://ghfast.top/https://github.com/ar51an/iperf3-win-builds/releases/download/3.19.1/iperf-3.19.1-win64-static-auth.zip",
+        "https://ghfast.top/https://github.com/ar51an/iperf3-win-builds/releases/download/3.19.1/iperf-3.19.1-win64.zip",
+        "https://ghfast.top/https://github.com/ar51an/iperf3-win-builds/archive/refs/tags/3.19.1.zip"
     ]
 }
