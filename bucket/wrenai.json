@@ -1,7 +1,7 @@
 {
-    "version": "0.25.0",
-    "url": "https://ghfast.top/https://github.com/Canner/WrenAI/releases/download/0.25.0/wren-launcher-windows.zip",
-    "hash": "5b452d3c3674f63d7521c31712a3ed83f5eb87df3d5e6f536fd1ee71487a6930",
+    "version": "0.26.0",
+    "url": "https://ghfast.top/https://github.com/Canner/WrenAI/releases/download/0.26.0/wren-launcher-windows.zip",
+    "hash": "fcccc0c0536b8e1724cc558105bfcc31014dd2b5f12e65fde35fa9b1b602a675",
     "license": "AGPL-3.0-only",
     "bin": "wren-launcher-windows.exe",
     "homepage": "https://github.com/Canner/WrenAI",
@@ -21,6 +21,6 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghfast.top/https://github.com/Canner/WrenAI/archive/refs/tags/0.25.0.zip"
+        "https://ghfast.top/https://github.com/Canner/WrenAI/archive/refs/tags/0.26.0.zip"
     ]
 }
