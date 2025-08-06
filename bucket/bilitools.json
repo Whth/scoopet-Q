@@ -1,0 +1,48 @@
+{
+  "version": "1.4.0",
+  "url": "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.0-1/BiliTools_1.4.0-1_x64-setup.exe#dl.7z",
+  "hash": "27ca85c06adbbf4234f17755e89571f03f4467f5877bbba9ec1b6cc9cb20ae99",
+  "license": "GPL-3.0-only",
+  "bin": [],
+  "shortcuts": [
+    [
+      "bilitools.exe",
+      "BiliTools"
+    ]
+  ],
+  "extract_dir": "",
+  "homepage": "https://github.com/btjawa/BiliTools",
+  "description": "A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源",
+  "checkver": {
+    "github": "https://github.com/btjawa/BiliTools"
+  },
+  "installer": {
+    "script": [
+      "Remove-Item \"$dir\\`$PLUGINSDIR\" -Recurse"
+    ]
+  },
+  "autoupdate": {
+    "url": "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v$version-1/BiliTools_$version-1_x64-setup.exe",
+    "hash": {
+      "url": "https://github.com/btjawa/BiliTools/releases/download/v$version-1/BiliTools_$version-1_x64-setup.exe.sha256"
+    },
+    "notes": [
+      "Other available assets:",
+      "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v$version-1/BiliTools_$version-1_x64-setup.nsis.zip",
+      "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v$version-1/BiliTools_$version-1_x64_zh-CN.msi",
+      "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v$version-1/BiliTools_$version-1_x64_zh-CN.msi.zip",
+      "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v$version-1/BiliTools_universal.app.tar.gz",
+      "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v$version-1/BiliTools_x64.app.tar.gz",
+      "https://ghfast.top/https://github.com/btjawa/BiliTools/archive/refs/tags/v$version-1.zip"
+    ]
+  },
+  "notes": [
+    "Other available assets:",
+    "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.0-1/BiliTools_1.4.0-1_x64-setup.nsis.zip",
+    "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.0-1/BiliTools_1.4.0-1_x64_zh-CN.msi",
+    "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.0-1/BiliTools_1.4.0-1_x64_zh-CN.msi.zip",
+    "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.0-1/BiliTools_universal.app.tar.gz",
+    "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.0-1/BiliTools_x64.app.tar.gz",
+    "https://ghfast.top/https://github.com/btjawa/BiliTools/archive/refs/tags/v1.4.0-1.zip"
+  ]
+}
