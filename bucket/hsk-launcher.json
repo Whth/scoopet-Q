@@ -1,7 +1,7 @@
 {
-    "version": "4.5.4",
-    "url": "https://ghfast.top/https://github.com/HardcoreSK/HSK-Launcher/archive/refs/tags/4.5.4.zip",
-    "hash": "6d5d294b6413a94834c4ba06cdeac8b6f2620cb57a5c24b924f76da76f2850a9",
+    "version": "4.5.5",
+    "url": "https://ghfast.top/https://github.com/HardcoreSK/HSK-Launcher/archive/refs/tags/4.5.5.zip",
+    "hash": "80a1066f10adb39738d7470eb65b8a4d2247c452098a56a16ca012672f9836c1",
     "license": "GPL-3.0-only",
     "shortcuts": [
         [
@@ -9,7 +9,7 @@
             "HSK Launcher"
         ]
     ],
-    "extract_dir": "HSK-Launcher-4.5.4",
+    "extract_dir": "HSK-Launcher-4.5.5",
     "homepage": "https://github.com/HardcoreSK/HSK-Launcher",
     "description": "Launcher for HardcoreSK modpack.",
     "checkver": {
