@@ -4,8 +4,7 @@
     "hash": "50d9b5fb069ef2e3dd27c6db7a8fbcd9ab4b3156600e3fcb14f31093af986980",
     "license": "MIT",
     "bin": [
-        "ai00-server.exe",
-        "converter.exe"
+        "ai00-server.exe"
     ],
     "extract_dir": "dist",
     "homepage": "https://github.com/Ai00-X/ai00_server",
