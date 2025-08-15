@@ -1,0 +1,66 @@
+{
+  "version": "1.3.16",
+  "url": "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/3Dmigoto-1.3.16.zip",
+  "hash": "1e097eaed99270f2444e3a70eff68194b751f6be19d0edadc40a780074152558",
+  "license": "GPL-3.0-only",
+  "bin": [],
+  "shortcuts": [],
+  "extract_dir": "",
+  "homepage": "https://github.com/bo3b/3Dmigoto",
+  "description": "Chiri's DX11 wrapper to enable fixing broken stereoscopic effects.",
+  "checkver": {
+    "github": "https://github.com/bo3b/3Dmigoto"
+  },
+  "autoupdate": {
+    "url": "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/3Dmigoto-$version.zip",
+    "hash": {
+      "url": "https://github.com/bo3b/3Dmigoto/releases/download/$version/3Dmigoto-$version.zip.sha256"
+    },
+    "notes": [
+      "Other available assets:",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/3Dmigoto-1.3.10.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/3Dmigoto-1.3.11.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/3Dmigoto-1.3.12.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/3Dmigoto-1.3.14.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/3Dmigoto-1.3.15.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/3Dmigoto-$version.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/3Dmigoto-1.3.2.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/3Dmigoto-1.3.3.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/3Dmigoto-1.3.4.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/3Dmigoto-1.3.5.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/3Dmigoto-1.3.6.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/3Dmigoto-1.3.7.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/3Dmigoto-1.3.8.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/cmd_Decompiler-1.3.1.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/cmd_Decompiler-1.3.12.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/cmd_Decompiler-1.3.14.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/cmd_Decompiler-1.3.15.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/cmd_Decompiler-$version.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/$version/cmd_Decompiler-1.3.2.zip",
+      "https://ghfast.top/https://github.com/bo3b/3Dmigoto/archive/refs/tags/$version.zip"
+    ]
+  },
+  "notes": [
+    "Other available assets:",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/3Dmigoto-1.3.10.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/3Dmigoto-1.3.11.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/3Dmigoto-1.3.12.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/3Dmigoto-1.3.14.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/3Dmigoto-1.3.15.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/3Dmigoto-1.3.16.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/3Dmigoto-1.3.2.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/3Dmigoto-1.3.3.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/3Dmigoto-1.3.4.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/3Dmigoto-1.3.5.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/3Dmigoto-1.3.6.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/3Dmigoto-1.3.7.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/3Dmigoto-1.3.8.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/cmd_Decompiler-1.3.1.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/cmd_Decompiler-1.3.12.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/cmd_Decompiler-1.3.14.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/cmd_Decompiler-1.3.15.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/cmd_Decompiler-1.3.16.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/releases/download/1.3.16/cmd_Decompiler-1.3.2.zip",
+    "https://ghfast.top/https://github.com/bo3b/3Dmigoto/archive/refs/tags/1.3.16.zip"
+  ]
+}

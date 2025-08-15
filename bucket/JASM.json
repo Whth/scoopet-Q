@@ -1,0 +1,35 @@
+{
+  "version": "2.22.7",
+  "url": "https://ghfast.top/https://github.com/Jorixon/JASM/releases/download/v2.22.7/JASM_v2.22.7.7z",
+  "hash": "37749a848cfdf408b3aa9fe54e93a1fe270bbaad7e838ba7d1394b999db85c59",
+  "license": "GPL-3.0-only",
+  "bin": [],
+  "shortcuts": [
+    [
+      "JASM - Just Another Skin Manager.exe",
+      "JASM"
+    ]
+  ],
+  "extract_dir": "JASM",
+  "homepage": "https://github.com/Jorixon/JASM",
+  "description": "Just Another Skin Manager",
+  "checkver": {
+    "github": "https://github.com/Jorixon/JASM"
+  },
+  "autoupdate": {
+    "url": "https://ghfast.top/https://github.com/Jorixon/JASM/releases/download/v$version/JASM_v$version.7z",
+    "hash": {
+      "url": "https://github.com/Jorixon/JASM/releases/download/v$version/JASM_v$version.7z.sha256"
+    },
+    "notes": [
+      "Other available assets:",
+      "https://ghfast.top/https://github.com/Jorixon/JASM/releases/download/v$version/SelfContained_JASM_v$version.7z",
+      "https://ghfast.top/https://github.com/Jorixon/JASM/archive/refs/tags/v$version.zip"
+    ]
+  },
+  "notes": [
+    "Other available assets:",
+    "https://ghfast.top/https://github.com/Jorixon/JASM/releases/download/v2.22.7/SelfContained_JASM_v2.22.7.7z",
+    "https://ghfast.top/https://github.com/Jorixon/JASM/archive/refs/tags/v2.22.7.zip"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "url": "https://ghfast.top/https://github.com/leotorrez/ZZ-Model-Importer/releases/download/ZZMI-v1.0/3dmigoto.ZZMI.for.playing.mods.zip",
+  "hash": "ceba67d621af705a67bcf1e1fdfeb0e34bcc8ca582d42da884062b86e4c86bc0",
+  "license": "GPL-3.0-only",
+  "shortcuts": [],
+  "extract_dir": "3dmigoto",
+  "homepage": "https://github.com/leotorrez/ZZ-Model-Importer",
+  "description": "",
+  "checkver": {
+    "github": "https://github.com/leotorrez/ZZ-Model-Importer"
+  },
+  "autoupdate": {
+    "url": "https://ghfast.top/https://github.com/leotorrez/ZZ-Model-Importer/releases/download/ZZMI-v$version/3dmigoto.ZZMI.for.playing.mods.zip",
+    "hash": {
+      "url": "https://github.com/leotorrez/ZZ-Model-Importer/releases/download/ZZMI-v$version/3dmigoto.ZZMI.for.playing.mods.zip.sha256"
+    },
+    "notes": [
+      "Other available assets:",
+      "https://ghfast.top/https://github.com/leotorrez/ZZ-Model-Importer/releases/download/ZZMI-v$version/3dmigoto.ZZMI.for.development.zip",
+      "https://ghfast.top/https://github.com/leotorrez/ZZ-Model-Importer/archive/refs/tags/ZZMI-v$version.zip"
+    ]
+  },
+  "notes": [
+    "Other available assets:",
+    "https://ghfast.top/https://github.com/leotorrez/ZZ-Model-Importer/releases/download/ZZMI-v1.0/3dmigoto.ZZMI.for.development.zip",
+    "https://ghfast.top/https://github.com/leotorrez/ZZ-Model-Importer/archive/refs/tags/ZZMI-v1.0.zip"
+  ]
+}
