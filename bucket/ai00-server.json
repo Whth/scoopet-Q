@@ -1,11 +1,9 @@
 {
-    "version": "0.6.0",
-    "url": "https://ghfast.top/https://github.com/Ai00-X/ai00_server/releases/download/v0.6.0/ai00_server-v0.6.0-x86_64-pc-windows-msvc.zip",
-    "hash": "50d9b5fb069ef2e3dd27c6db7a8fbcd9ab4b3156600e3fcb14f31093af986980",
+    "version": "0.6.1",
+    "url": "https://ghfast.top/https://github.com/Ai00-X/ai00_server/releases/download/v0.6.1/ai00_server-v0.6.1-x86_64-pc-windows-msvc.zip",
+    "hash": "a3259c075a3f3a312e60d965510db3886146755c0ecb11fd24e36b3419714b4a",
     "license": "MIT",
-    "bin": [
-        "ai00-server.exe"
-    ],
+    "bin": "ai00-server.exe",
     "extract_dir": "dist",
     "homepage": "https://github.com/Ai00-X/ai00_server",
     "description": "The all-in-one RWKV runtime box with embed, RAG, AI agents, and more.",
