@@ -1,0 +1,35 @@
+{
+  "version": "0.1.6",
+  "url": "https://ghfast.top/https://github.com/Whth/BaroBaro/releases/download/v0.1.6/barobaro_0.1.0_x64-setup.exe#dl.7z",
+  "hash": "0a7d3eece48d31d18df3329f231665436c4336f3b242ed087ea64c22941de116",
+  "license": "LGPL-3.0-only",
+
+  "shortcuts": [
+    [ "barobaro.exe","BaroBaro"]
+  ],
+  "homepage": "https://github.com/Whth/BaroBaro",
+  "description": "A Barotrauma mod manager.",
+  "checkver": {
+    "github": "https://github.com/Whth/BaroBaro"
+  },
+  "post_install": [
+    "Remove-Item \"$dir\\`$PLUGINSDIR\" -Recurse",
+    "Remove-Item \"$dir\\uninstall.exe\" -Force"
+  ],
+  "autoupdate": {
+    "url": "https://ghfast.top/https://github.com/Whth/BaroBaro/releases/download/v$version/barobaro_0.1.0_x64-setup.exe#dl.7z",
+    "hash": {
+      "url": "https://ghfast.top/https://github.com/Whth/BaroBaro/releases/download/v$version/barobaro_0.1.0_x64-setup.exe.sha256"
+    },
+    "notes": [
+      "Other available assets:",
+      "https://ghfast.top/https://github.com/Whth/BaroBaro/releases/download/v$version/barobaro_0.1.0_x64_en-US.msi",
+      "https://ghfast.top/https://github.com/Whth/BaroBaro/archive/refs/tags/v$version.zip"
+    ]
+  },
+  "notes": [
+    "Other available assets:",
+    "https://ghfast.top/https://github.com/Whth/BaroBaro/releases/download/v0.1.6/barobaro_0.1.0_x64_en-US.msi",
+    "https://ghfast.top/https://github.com/Whth/BaroBaro/archive/refs/tags/v0.1.6.zip"
+  ]
+}
