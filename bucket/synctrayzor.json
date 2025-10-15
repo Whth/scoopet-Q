@@ -1,9 +1,9 @@
 {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "description": "Windows tray utility / filesystem watcher / launcher for Syncthing",
     "homepage": "https://github.com/GermanCoding/SyncTrayzor",
     "license": "MIT",
-    "url": "https://ghfast.top/https://github.com/GermanCoding/SyncTrayzor/releases/download/v2.0.3/SyncTrayzorPortable-x64.zip",
+    "url": "https://ghfast.top/https://github.com/GermanCoding/SyncTrayzor/releases/download/v2.0.4/SyncTrayzorPortable-x64.zip",
     "hash": "",
     "extract_dir": "SyncTrayzorPortable-x64",
     "bin": "SyncTrayzor.exe",
