@@ -1,7 +1,7 @@
 {
-    "version": "0.6.1",
-    "url": "https://ghfast.top/https://github.com/Ai00-X/ai00_server/releases/download/v0.6.1/ai00_server-v0.6.1-x86_64-pc-windows-msvc.zip",
-    "hash": "a3259c075a3f3a312e60d965510db3886146755c0ecb11fd24e36b3419714b4a",
+    "version": "0.6.2",
+    "url": "https://ghfast.top/https://github.com/Ai00-X/ai00_server/releases/download/v0.6.2/ai00_server-v0.6.2-x86_64-pc-windows-msvc.zip",
+    "hash": "e1f2ce81473b8f8e5283d374ed23731ec541ed9cf556741663f0ae2ff4d4b3d4",
     "license": "MIT",
     "bin": "ai00-server.exe",
     "extract_dir": "dist",
