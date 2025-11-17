@@ -1,7 +1,7 @@
 {
-    "version": "0.1.36",
-    "url": "https://ghfast.top/https://github.com/Whth/ebox/releases/download/v0.1.36/ebox_v0.1.36.zip",
-    "hash": "26a00a73c75fb33fed5410e80bfa5068e2ca7ad57e504ce957912c6e51e276dc",
+    "version": "0.2.0",
+    "url": "https://ghfast.top/https://github.com/Whth/ebox/releases/download/v0.2.0/ebox_v0.2.0.zip",
+    "hash": "8361590824713f60e880c73e5de222112928820f802fd7ca084bb4e130ccdb80",
     "license": "GPL-3.0-only",
     "extract_dir": "dist",
     "env_add_path": ".",
@@ -22,6 +22,6 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghfast.top/https://github.com/Whth/ebox/archive/refs/tags/v0.1.36.zip"
+        "https://ghfast.top/https://github.com/Whth/ebox/archive/refs/tags/v0.2.0.zip"
     ]
 }
