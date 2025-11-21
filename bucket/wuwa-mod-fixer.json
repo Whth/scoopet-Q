@@ -1,15 +1,15 @@
 {
-    "version": "2.7.0",
-    "url": "https://ghfast.top/https://github.com/Moonholder/Wuwa_Mod_Fixer/releases/download/v2.7.0/Wuwa_Mod_Fixer_v2.7.0.exe",
-    "hash": "daf041fac1b4ef01f802edc699c9f5c2097a6306e027727b4a89793d6daf76d1",
+    "version": "2.8.0",
+    "url": "https://ghfast.top/https://github.com/Moonholder/Wuwa_Mod_Fixer/releases/download/v2.8.0/Wuwa_Mod_Fixer_v2.8.0.exe",
+    "hash": "8f795d7af5e972a4e15752ea6275df6e9f7a2b63b23b0a3c7eddb324ca55e412",
     "license": "Unknown",
     "bin": [
         [
-            "Wuwa_Mod_Fixer_v2.7.0.exe",
+            "Wuwa_Mod_Fixer_v2.8.0.exe",
             "wuwa-mod-fixer"
         ],
         [
-            "Wuwa_Mod_Fixer_v2.7.0.exe",
+            "Wuwa_Mod_Fixer_v2.8.0.exe",
             "wmf"
         ]
     ],
