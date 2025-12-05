@@ -1,0 +1,29 @@
+{
+    "version": "1.2.0",
+    "url": "https://ghfast.top/https://github.com/std-microblock/BetterNCM-Installer/releases/download/1.2.0/betterncm_installer.exe",
+    "hash": "",
+    "license": "GPL-3.0-only",
+    "shortcuts": [
+        ["betterncm_installer.exe","BetterNCM Installer"]
+    ],
+    "extract_dir": "",
+    "homepage": "https://github.com/std-microblock/BetterNCM-Installer",
+    "description": "一键安装 Better 系软件",
+    "checkver": {
+        "github": "https://github.com/std-microblock/BetterNCM-Installer"
+    },
+    "autoupdate": {
+        "url": "https://ghfast.top/https://github.com/std-microblock/BetterNCM-Installer/releases/download/$version/betterncm_installer.exe",
+        "hash": {
+            "url": "https://github.com/std-microblock/BetterNCM-Installer/releases/download/$version/betterncm_installer.exe.sha256"
+        },
+        "notes": [
+            "Other available assets:",
+            "https://ghfast.top/https://github.com/std-microblock/BetterNCM-Installer/archive/refs/tags/$version.zip"
+        ]
+    },
+    "notes": [
+        "Other available assets:",
+        "https://ghfast.top/https://github.com/std-microblock/BetterNCM-Installer/archive/refs/tags/1.2.0.zip"
+    ]
+}
