@@ -1,7 +1,7 @@
 {
-    "version": "25.12.16.1",
-    "url": "https://ghfast.top/https://github.com/Byte-Nova/Rimworld-Together/releases/download/25.12.16.1/win-x64.zip",
-    "hash": "f8a961ddaad24cb95fcf6274189154106137d1b300bcb0b1448c712215dc59ea",
+    "version": "25.12.19.1",
+    "url": "https://ghfast.top/https://github.com/Byte-Nova/Rimworld-Together/releases/download/25.12.19.1/win-x64.zip",
+    "hash": "6fad3005c328cb469ecb3966efe50d39de527f4ae2dbdb8ece195fa2f6e40f55",
     "bin": [
         [
             "cmd",
