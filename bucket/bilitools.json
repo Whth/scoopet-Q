@@ -1,7 +1,7 @@
 {
-    "version": "1.4.6",
-    "url": "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.6/BiliTools_1.4.6_x64-setup.exe",
-    "hash": "36de5b0d0e161bb8ce8f4f1adf4d5a5af54c2ec6d44dcb78fc92ea83ff4a8b8f",
+    "version": "1.4.7",
+    "url": "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.7/BiliTools_1.4.7_x64-setup.exe",
+    "hash": "3778fa4531f846e8ef5b616cccceb2aebb888319930614845e79c3ac93acaac1",
     "license": "GPL-3.0-only",
     "bin": [
         
@@ -38,11 +38,11 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.6/BiliTools_1.4.6_x64-setup.nsis.zip",
-        "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.6/BiliTools_1.4.6_x64_zh-CN.msi",
-        "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.6/BiliTools_1.4.6_x64_zh-CN.msi.zip",
-        "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.6/BiliTools_universal.app.tar.gz",
-        "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.6/BiliTools_x64.app.tar.gz",
-        "https://ghfast.top/https://github.com/btjawa/BiliTools/archive/refs/tags/v1.4.6.zip"
+        "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.7/BiliTools_1.4.7_x64-setup.nsis.zip",
+        "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.7/BiliTools_1.4.7_x64_zh-CN.msi",
+        "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.7/BiliTools_1.4.7_x64_zh-CN.msi.zip",
+        "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.7/BiliTools_universal.app.tar.gz",
+        "https://ghfast.top/https://github.com/btjawa/BiliTools/releases/download/v1.4.7/BiliTools_x64.app.tar.gz",
+        "https://ghfast.top/https://github.com/btjawa/BiliTools/archive/refs/tags/v1.4.7.zip"
     ]
 }
