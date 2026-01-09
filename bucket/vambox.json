@@ -1,7 +1,7 @@
 {
-    "version": "1.0.0",
-    "url": "https://ghfast.top/https://github.com/NaturalWhiteX/vambox-release/releases/download/1.0.0/vambox-v1.0.0.7z",
-    "hash": "ad9f053aac945c9dd77acbee394f160606195e550d8c68ed9fe1e20a99e8380b",
+    "version": "1.0.1",
+    "url": "https://ghfast.top/https://github.com/NaturalWhiteX/vambox-release/releases/download/1.0.1/vambox-v1.0.1.7z",
+    "hash": "6b5a01b05df887ad784a35479cf0f9a168879b0af45cc1ff46d1bee3e5d391c3",
     "license": "GPL-3.0-only",
     "shortcuts": [
         [
@@ -27,6 +27,6 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghfast.top/https://github.com/NaturalWhiteX/vambox-release/archive/refs/tags/1.0.0.zip"
+        "https://ghfast.top/https://github.com/NaturalWhiteX/vambox-release/archive/refs/tags/1.0.1.zip"
     ]
 }
