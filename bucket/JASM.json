@@ -1,7 +1,7 @@
 {
-    "version": "2.22.8",
-    "url": "https://ghfast.top/https://github.com/Jorixon/JASM/releases/download/v2.22.8/SelfContained_JASM_v2.22.8.7z",
-    "hash": "982603801ed0c4651378205b77fbec1c975bdda07d1e351a9b51c07632475930",
+    "version": "2.22.9",
+    "url": "https://ghfast.top/https://github.com/Jorixon/JASM/releases/download/v2.22.9/SelfContained_JASM_v2.22.9.7z",
+    "hash": "e7cf98dc22e5670642820848e7e038e4659e1e6bacc22dc897e4ef6480768920",
     "license": "GPL-3.0-only",
     "bin": [
         
@@ -31,7 +31,7 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghfast.top/https://github.com/Jorixon/JASM/releases/download/v2.22.8/JASM_v2.22.8.7z",
-        "https://ghfast.top/https://github.com/Jorixon/JASM/archive/refs/tags/v2.22.8.zip"
+        "https://ghfast.top/https://github.com/Jorixon/JASM/releases/download/v2.22.9/JASM_v2.22.9.7z",
+        "https://ghfast.top/https://github.com/Jorixon/JASM/archive/refs/tags/v2.22.9.zip"
     ]
 }
