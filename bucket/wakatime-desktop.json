@@ -1,7 +1,7 @@
 {
-    "version": "2.1.7",
-    "url": "https://ghfast.top/https://github.com/wakatime/desktop-wakatime/releases/download/v2.1.7/wakatime-win32.exe#dl.7z",
-    "hash": "c6c6f442e34e91b006225e0e79538264d2101126e04efd74a37001e10329364b",
+    "version": "3.0.0",
+    "url": "https://ghfast.top/https://github.com/wakatime/desktop-wakatime/releases/download/v3.0.0/wakatime-win32.exe#dl.7z",
+    "hash": "d1cc2e70257525648578b0e6267926b2c94d5a7370f399e69eb1da599f337bdd",
     "license": "BSD-3-Clause",
     "shortcuts": [
         [
@@ -31,6 +31,6 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghfast.top/https://github.com/wakatime/desktop-wakatime/archive/refs/tags/v2.1.7.zip"
+        "https://ghfast.top/https://github.com/wakatime/desktop-wakatime/archive/refs/tags/v3.0.0.zip"
     ]
 }
