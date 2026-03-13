@@ -1,7 +1,7 @@
 {
-    "version": "0.14.1",
-    "url": "https://ghfast.top/https://github.com/wavetermdev/waveterm/releases/download/v0.14.1/Wave-win32-x64-0.14.1.msi",
-    "hash": "6d4f8aaa4970661c6344813ea9e54d8311eb6bc794a41ab5bdfd7a9036afecef",
+    "version": "0.14.3",
+    "url": "https://ghfast.top/https://github.com/wavetermdev/waveterm/releases/download/v0.14.3/Wave-win32-x64-0.14.3.msi",
+    "hash": "96fafd103ffae2a34d789bd9459df8ac17c483f3713117f965679d7f214cbd9b",
     "license": "Apache-2.0",
     "shortcuts": [
         [
