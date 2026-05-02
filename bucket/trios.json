@@ -1,0 +1,28 @@
+{
+  "version": "1.4.1",
+  "url": "https://ghfast.top/https://github.com/wispborne/TriOS/releases/download/1.4.1/TriOS-Windows.zip",
+  "hash": "",
+  "license": "GPL-3.0-only",
+  "bin": ["TriOS.exe"],
+  "shortcuts": [["TriOS.exe","TriOS"]],
+  "extract_dir": "TriOS",
+  "homepage": "https://github.com/wispborne/TriOS",
+  "description": "",
+  "checkver": {
+    "github": "https://github.com/wispborne/TriOS"
+  },
+  "autoupdate": {
+    "url": "https://ghfast.top/https://github.com/wispborne/TriOS/releases/download/$version/TriOS-Windows.zip",
+    "hash": {
+      "url": "https://github.com/wispborne/TriOS/releases/download/$version/TriOS-Windows.zip.sha256"
+    },
+    "notes": [
+      "Other available assets:",
+      "https://ghfast.top/https://github.com/wispborne/TriOS/archive/refs/tags/$version.zip"
+    ]
+  },
+  "notes": [
+    "Other available assets:",
+    "https://ghfast.top/https://github.com/wispborne/TriOS/archive/refs/tags/1.4.1.zip"
+  ]
+}
