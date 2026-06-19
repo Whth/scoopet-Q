@@ -1,6 +1,6 @@
 {
-    "version": "0.1.8",
-    "url": "https://ghfast.top/https://github.com/Whth/BaroBaro/releases/download/v0.1.8/barobaro_0.1.8_x64-setup.exe#dl.7z",
+    "version": "0.2.3",
+    "url": "https://ghfast.top/https://github.com/Whth/BaroBaro/releases/download/v0.2.3/barobaro_0.2.3_x64-setup.exe#dl.7z",
     "hash": "",
     "license": "LGPL-3.0-only",
     "shortcuts": [
@@ -19,19 +19,19 @@
         "Remove-Item \"$dir\\uninstall.exe\" -Force"
     ],
     "autoupdate": {
-        "url": "https://github.com/Whth/BaroBaro/releases/download/v$version/barobaro_0.1.0_x64-setup.exe#dl.7z",
+        "url": "https://github.com/Whth/BaroBaro/releases/download/v$version/barobaro_$version_x64-setup.exe#dl.7z",
         "hash": {
-            "url": "https://github.com/Whth/BaroBaro/releases/download/v$version/barobaro_0.1.0_x64-setup.exe.sha256"
+            "url": "https://github.com/Whth/BaroBaro/releases/download/v$version/barobaro_$version_x64-setup.exe.sha256"
         },
         "notes": [
             "Other available assets:",
-            "https://ghfast.top/https://github.com/Whth/BaroBaro/releases/download/v$version/barobaro_0.1.0_x64_en-US.msi",
+            "https://ghfast.top/https://github.com/Whth/BaroBaro/releases/download/v$version/barobaro_$version_x64_en-US.msi",
             "https://ghfast.top/https://github.com/Whth/BaroBaro/archive/refs/tags/v$version.zip"
         ]
     },
     "notes": [
         "Other available assets:",
-        "https://ghfast.top/https://github.com/Whth/BaroBaro/releases/download/v0.1.7/barobaro_0.1.0_x64_en-US.msi",
-        "https://ghfast.top/https://github.com/Whth/BaroBaro/archive/refs/tags/v0.1.7.zip"
+        "https://ghfast.top/https://github.com/Whth/BaroBaro/releases/download/v0.2.3/barobaro_0.2.3_x64_en-US.msi",
+        "https://ghfast.top/https://github.com/Whth/BaroBaro/archive/refs/tags/v0.2.3.zip"
     ]
 }
