@@ -1,6 +1,6 @@
 {
-    "version": "1.6.0",
-    "url": "https://ghfast.top/https://github.com/wispborne/TriOS/releases/download/1.6.0/TriOS-Windows.zip",
+    "version": "1.6.1",
+    "url": "https://ghfast.top/https://github.com/wispborne/TriOS/releases/download/1.6.1/TriOS-Windows.zip",
     "hash": "",
     "license": "GPL-3.0-only",
     "bin": "TriOS.exe",
@@ -28,6 +28,6 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghfast.top/https://github.com/wispborne/TriOS/archive/refs/tags/1.6.0.zip"
+        "https://ghfast.top/https://github.com/wispborne/TriOS/archive/refs/tags/1.6.1.zip"
     ]
 }
