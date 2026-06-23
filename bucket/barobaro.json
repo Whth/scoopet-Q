@@ -1,6 +1,6 @@
 {
-    "version": "0.2.3",
-    "url": "https://ghfast.top/https://github.com/Whth/BaroBaro/releases/download/v0.2.3/barobaro_0.2.3_x64-setup.exe#dl.7z",
+    "version": "0.2.4",
+    "url": "https://github.com/Whth/BaroBaro/releases/download/v0.2.4/barobaro_0.2.4_x64-setup.exe#dl.7z",
     "hash": "",
     "license": "LGPL-3.0-only",
     "shortcuts": [
@@ -31,7 +31,7 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghfast.top/https://github.com/Whth/BaroBaro/releases/download/v0.2.3/barobaro_0.2.3_x64_en-US.msi",
-        "https://ghfast.top/https://github.com/Whth/BaroBaro/archive/refs/tags/v0.2.3.zip"
+        "https://ghfast.top/https://github.com/Whth/BaroBaro/releases/download/v0.2.4/barobaro_0.2.4_x64_en-US.msi",
+        "https://ghfast.top/https://github.com/Whth/BaroBaro/archive/refs/tags/v0.2.4.zip"
     ]
 }
