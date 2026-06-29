@@ -1,7 +1,7 @@
 {
-    "version": "1.7.1",
-    "url": "https://ghfast.top/https://github.com/RimSort/RimSort/releases/download/v1.7.1/RimSort-v1.7.1-Windows_x86_64.zip",
-    "hash": "a5243ed9bbacf0267419009a7ceae10e7dec9d0a98fea5f4c538f090fbff7067",
+    "version": "1.7.3",
+    "url": "https://ghfast.top/https://github.com/RimSort/RimSort/releases/download/v1.7.3/RimSort-v1.7.3-Windows_x86_64.zip",
+    "hash": "2d96229d647b1c06155e5d218cca6d7a2d2783eb55b43eccb15124877082aded",
     "license": "GPL-3.0-only",
     "shortcuts": [
         [
@@ -27,7 +27,7 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghfast.top/https://github.com/RimSort/RimSort/archive/refs/tags/v1.7.1.zip"
+        "https://ghfast.top/https://github.com/RimSort/RimSort/archive/refs/tags/v1.7.3.zip"
     ],
     "persist": "User Files"
 }
