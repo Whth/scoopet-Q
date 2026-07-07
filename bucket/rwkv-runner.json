@@ -1,7 +1,7 @@
 {
-    "version": "1.9.11",
-    "url": "https://ghfast.top/https://github.com/josStorer/RWKV-Runner/releases/download/v1.9.11/RWKV-Runner_windows_x64.exe",
-    "hash": "eac2b296f813eb13f9d837d3ba34294097a34e3274e749641a53a54b31998542",
+    "version": "1.9.12",
+    "url": "https://ghfast.top/https://github.com/josStorer/RWKV-Runner/releases/download/v1.9.12/RWKV-Runner_windows_x64.exe",
+    "hash": "5b4ea65018c058863ebe0cdf3262b2179bfe272fec6a61eca19feecdc379926d",
     "license": "GPL-3.0-only",
     "shortcuts": [
         [
