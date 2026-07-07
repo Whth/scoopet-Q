@@ -1,10 +1,10 @@
 {
-    "version": "159",
+    "version": "159.1",
     "description": "The automation tower defense RTS",
     "homepage": "https://mindustrygame.github.io/",
     "license": "GPL-3.0-only",
-    "url": "https://ghfast.top/https://github.com/Anuken/Mindustry/releases/download/v159/Mindustry.jar",
-    "hash": "f2a3303566dd46aa07976a5623f0043c73666da77bb76e93cecaa19b8e6e1f6a",
+    "url": "https://ghfast.top/https://github.com/Anuken/Mindustry/releases/download/v159.1/Mindustry.jar",
+    "hash": "9d250a07570c9d92b9e69f6ada9819c6c08369f395c02907cd9f5962bf63677e",
     "bin": [
         [
             "java.exe",
