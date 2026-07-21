@@ -1,13 +1,13 @@
 {
-    "version": "3.42.0.510",
+    "version": "3.43.0.510",
     "homepage": "https://voovmeeting.com",
     "description": "Backed by Tencent's years of experience in audiovisual communications",
     "license": {
         "identifier": "Freeware",
         "url": "https://voovmeeting.com/df/en/service-agreement.html"
     },
-    "url": "https://updatecdn.meeting.qq.com/cos/a75f05f5dd6c2b950358c35d32848523/VooVMeeting_1410000197_3.42.0.510.publish.exe#/dl.7z",
-    "hash": "md5:a75f05f5dd6c2b950358c35d32848523",
+    "url": "https://updatecdn.meeting.qq.com/cos/03fd4df7a79a01239433069387d30479/VooVMeeting_1410000197_3.43.0.510.publish.exe#/dl.7z",
+    "hash": "md5:03fd4df7a79a01239433069387d30479",
     "installer": {
         "script": [
             "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name ox) scripts/DoradoUtils.psm1)",
