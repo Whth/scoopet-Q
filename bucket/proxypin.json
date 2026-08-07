@@ -1,7 +1,7 @@
 {
-    "version": "1.2.9",
-    "url": "https://ghfast.top/https://github.com/wanghongenpin/proxypin/releases/download/v1.2.9/ProxyPin-Windows.zip",
-    "hash": "ff035651b9e4994c83dfe41246452fb1f72ac9e56d91d2303641078d63854f2a",
+    "version": "1.3.1",
+    "url": "https://ghfast.top/https://github.com/wanghongenpin/proxypin/releases/download/v1.3.1/ProxyPin-Windows.zip",
+    "hash": "0fa57088b3dd812d5232393e70b94560dc9c8294c8eb7adbaa19a1fc307cbbbc",
     "license": "Apache-2.0",
     "shortcuts": [
         [
@@ -28,7 +28,7 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghfast.top/https://github.com/wanghongenpin/proxypin/releases/download/v1.2.9/ProxyPin-Windows7_x64.zip",
-        "https://ghfast.top/https://github.com/wanghongenpin/proxypin/archive/refs/tags/v1.2.9.zip"
+        "https://ghfast.top/https://github.com/wanghongenpin/proxypin/releases/download/v1.3.1/ProxyPin-Windows7_x64.zip",
+        "https://ghfast.top/https://github.com/wanghongenpin/proxypin/archive/refs/tags/v1.3.1.zip"
     ]
 }
