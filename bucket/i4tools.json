@@ -1,16 +1,16 @@
 {
-    "version": "8.59.007",
+    "version": "8.59.009",
     "description": "简单好用的多功能苹果设备管理助手",
     "homepage": "https://www.i4.cn/pro_pc.html",
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://d-app6.i4.cn/i4tools/V8/8.59/i4Tools8_v8.59.007_Setup_x64.exe#/dl.7z",
-            "hash": "e2dadd42bfadabfb9bca0486d12d4940cef5592ab03870ce763044d1537dd7ee"
+            "url": "https://d-updater.i4.cn/i4tools8/download/2026/i4Tools8_v8.59.009_Setup_x64.exe#/dl.7z",
+            "hash": "2b885a9c5055a4ff94e85b7889c0fb1497c8752f568200d274418751e881bcf9"
         },
         "32bit": {
-            "url": "https://d-app6.i4.cn/i4tools/V8/8.59/i4Tools8_v8.59.007_Setup_x86.exe#/dl.7z",
-            "hash": "66419b6e3908fef3918eebe04320468ad5306f9bdd13886add73678560f84256"
+            "url": "https://d-updater.i4.cn/i4tools8/download/2026/i4Tools8_v8.59.009_Setup_x86.exe#/dl.7z",
+            "hash": "81a687f9389019a68cc3fad13d6d68e4c33c6e8233c44fd634fc49aa635a5484"
         }
     },
     "bin": "i4Tools.exe",
