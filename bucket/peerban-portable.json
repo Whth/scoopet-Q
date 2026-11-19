@@ -1,7 +1,7 @@
 {
-    "version": "9.5.4",
-    "url": "https://ghfast.top/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.5.4/PeerBanHelper_Windows_9.5.4_Portable.zip",
-    "hash": "238458c24b101c2090fcaed756e4d60bde14043a2e884779bd638cff8fa8633b",
+    "version": "9.6.0",
+    "url": "https://ghfast.top/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.6.0/PeerBanHelper_Windows_9.6.0_Portable.zip",
+    "hash": "36b31e3bac369713ad6af81ec359c3ab9f206d0489079eedaab49ae0bbee10b5",
     "license": "GPL-3.0-only",
     "bin": [
         [
@@ -36,10 +36,10 @@
     },
     "notes": [
         "Other available assets:",
-        "https://ghfast.top/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.5.4/PeerBanHelper_9.5.4.zip",
-        "https://ghfast.top/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.5.4/PeerBanHelper_Installers.tar.gz",
-        "https://ghfast.top/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.5.4/PeerBanHelper_windows-x64_9.5.4_nojava.exe",
-        "https://ghfast.top/https://github.com/PBH-BTN/PeerBanHelper/archive/refs/tags/v9.5.4.zip"
+        "https://ghfast.top/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.6.0/PeerBanHelper_9.6.0.zip",
+        "https://ghfast.top/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.6.0/PeerBanHelper_Installers.tar.gz",
+        "https://ghfast.top/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.6.0/PeerBanHelper_windows-x64_9.6.0_nojava.exe",
+        "https://ghfast.top/https://github.com/PBH-BTN/PeerBanHelper/archive/refs/tags/v9.6.0.zip"
     ],
     "persist": "data"
 }
